@@ -1,0 +1,1288 @@
+CRASH DATE TIME,BOROUGH,ZIP CODE,LATITUDE,LONGITUDE,NUMBER OF PERSONS INJURED,NUMBER OF PERSONS KILLED,CONTRIBUTING FACTOR VEHICLE 1,COLLISION_ID,VEHICLE TYPE CODE 1,CONTRIBUTING CATEGORY V1,SEASON,TIME OF DAY,IS RUSH HOUR
+2023-01-01 00:00:00,QUEENS,11101,40.745068,-73.936356,0,0,Driver Inattention/Distraction,4599239,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-01-01 03:10:00,QUEENS,11385,40.702595,-73.8553,1,0,Following Too Closely,4594669,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-01 03:14:00,QUEENS,11368,40.74788,-73.85731,0,0,Driver Inattention/Distraction,4594459,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-01 04:30:00,QUEENS,11373,40.741844,-73.86975,0,0,Driver Inattention/Distraction,4594458,Pick-up Truck,Driver Inattention,Winter,Early Morning,False
+2023-01-01 05:00:00,BROOKLYN,11236,40.649895,-73.90762,1,0,Passing or Lane Usage Improper,4594564,Sedan,Moving Violation,Winter,Early Morning,False
+2023-01-01 05:00:00,BROOKLYN,11207,40.67811,-73.89762,1,0,Traffic Control Disregarded,4594587,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-01-01 05:36:00,BROOKLYN,11207,40.663136,-73.88325,0,0,Unsafe Speed,4594580,Sedan,Moving Violation,Winter,Early Morning,False
+2023-01-01 06:45:00,QUEENS,11368,40.73928,-73.85053,1,0,Driver Inattention/Distraction,4594462,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-01-01 09:50:00,QUEENS,11373,40.746346,-73.87239,0,0,Unsafe Speed,4594924,Sedan,Moving Violation,Winter,Morning,False
+2023-01-01 10:15:00,BROOKLYN,11207,40.67816,-73.897484,0,0,Driver Inattention/Distraction,4594589,Sedan,Driver Inattention,Winter,Morning,False
+2023-01-01 10:30:00,QUEENS,11368,40.74495,-73.86129,0,0,Passing or Lane Usage Improper,4596206,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-01 11:30:00,QUEENS,11368,40.74484,-73.85225,3,0,Failure to Yield Right-of-Way,4594925,Sedan,Moving Violation,Winter,Morning,False
+2023-01-01 12:00:00,BROOKLYN,11211,40.70669,-73.95884,0,0,Passing or Lane Usage Improper,4594905,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-01 15:42:00,BROOKLYN,11234,40.626457,-73.918,0,0,Turning Improperly,4594835,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-01 16:30:00,BROOKLYN,11207,40.651337,-73.889595,1,0,Driver Inattention/Distraction,4594588,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-01 19:00:00,BROOKLYN,11206,40.708237,-73.94337,1,0,Driver Inattention/Distraction,4599015,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-01 20:00:00,QUEENS,11373,40.747864,-73.873985,2,0,Driver Inattention/Distraction,4596592,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-01 20:35:00,BROOKLYN,11211,40.71337,-73.934814,1,0,Failure to Yield Right-of-Way,4597638,Bike,Moving Violation,Winter,Night,False
+2023-01-01 22:10:00,BROOKLYN,11211,40.703434,-73.96035,0,0,Driver Inattention/Distraction,4595466,Bus,Driver Inattention,Winter,Night,False
+2023-01-01 22:30:00,BROOKLYN,11206,40.706806,-73.94878,0,0,Backing Unsafely,4595464,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-02 03:10:00,QUEENS,11385,40.71043,-73.9106,0,0,Passing Too Closely,4595750,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-02 05:07:00,BROOKLYN,11236,40.634815,-73.901276,0,0,Traffic Control Disregarded,4594796,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-01-02 05:15:00,QUEENS,11385,40.707237,-73.89664,0,0,Backing Unsafely,4595757,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-01-02 10:00:00,QUEENS,11368,40.75606,-73.85859,0,0,Driver Inattention/Distraction,4598472,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-01-02 10:17:00,BROOKLYN,11206,40.702,-73.93205,0,0,Driver Inattention/Distraction,4595790,Sedan,Driver Inattention,Winter,Morning,False
+2023-01-02 11:15:00,BROOKLYN,11207,40.657314,-73.88864,1,0,Turning Improperly,4594839,Sedan,Moving Violation,Winter,Morning,False
+2023-01-02 11:18:00,BROOKLYN,11236,40.634106,-73.906715,1,0,Driver Inexperience,4596040,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-01-02 12:10:00,BROOKLYN,11236,40.643406,-73.89136,0,0,Passing Too Closely,4596042,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-02 12:51:00,BROOKLYN,11236,40.637657,-73.91312,4,0,Driver Inattention/Distraction,4595145,Box Truck,Driver Inattention,Winter,Afternoon,False
+2023-01-02 13:00:00,QUEENS,11368,40.741104,-73.85382,0,0,Driver Inexperience,4594926,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-01-02 14:50:00,BROOKLYN,11211,40.711903,-73.94902,1,0,Driver Inexperience,4594906,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-02 16:35:00,BROOKLYN,11234,40.63189,-73.928276,2,0,Driver Inexperience,4595301,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-02 18:29:00,QUEENS,11385,40.713333,-73.91305,0,0,Passing Too Closely,4595751,Sedan,Moving Violation,Winter,Evening,True
+2023-01-02 20:30:00,BROOKLYN,11236,40.64308,-73.88699,0,0,Driver Inattention/Distraction,4595126,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-03 11:00:00,BROOKLYN,11236,40.63235,-73.88168,0,0,Backing Unsafely,4595589,Sedan,Moving Violation,Winter,Morning,False
+2023-01-03 13:05:00,QUEENS,11385,40.702595,-73.8553,0,0,Following Too Closely,4595756,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-03 15:25:00,QUEENS,11101,40.73634,-73.93266,1,0,Driver Inattention/Distraction,4595173,Pick-up Truck,Driver Inattention,Winter,Afternoon,False
+2023-01-03 17:09:00,BROOKLYN,11236,40.643143,-73.901474,1,0,Driver Inattention/Distraction,4595144,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-03 21:45:00,BROOKLYN,11206,40.70547,-73.95024,1,0,Driver Inattention/Distraction,4595184,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-04 06:00:00,BROOKLYN,11211,40.70926,-73.95448,0,0,Passing or Lane Usage Improper,4595670,Sedan,Moving Violation,Winter,Early Morning,True
+2023-01-04 06:27:00,BROOKLYN,11234,40.615795,-73.93937,1,0,Failure to Yield Right-of-Way,4595303,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-04 06:50:00,QUEENS,11368,40.757545,-73.8664,1,0,Failure to Yield Right-of-Way,4595556,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-04 09:25:00,BROOKLYN,11234,40.625423,-73.9179,0,0,Backing Unsafely,4601399,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-04 10:08:00,QUEENS,11385,40.704403,-73.88202,1,0,Failure to Yield Right-of-Way,4595336,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-04 12:08:00,BROOKLYN,11207,40.680664,-73.902626,1,0,Unsafe Speed,4595497,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-04 12:41:00,BROOKLYN,11234,40.615433,-73.91388,1,0,Failure to Yield Right-of-Way,4596114,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-04 14:00:00,QUEENS,11373,40.74519,-73.8695,0,0,Passing Too Closely,4595554,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-04 15:55:00,BROOKLYN,11234,40.643288,-73.87618,0,0,Aggressive Driving/Road Rage,4595431,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-01-04 18:10:00,BROOKLYN,11236,40.645397,-73.893585,0,0,Driver Inattention/Distraction,4596188,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-04 18:20:00,QUEENS,11368,40.757793,-73.861916,1,0,Driver Inattention/Distraction,4595645,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-04 19:03:00,BROOKLYN,11236,40.644196,-73.91295,0,0,Aggressive Driving/Road Rage,4595644,Sedan,Driver Inattention,Winter,Evening,False
+2023-01-04 21:00:00,QUEENS,11368,40.757793,-73.861916,0,0,Driver Inattention/Distraction,4595544,Sedan,Driver Inattention,Winter,Night,False
+2023-01-04 21:10:00,BROOKLYN,11206,40.707485,-73.93393,0,0,Failure to Yield Right-of-Way,4596900,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-05 00:17:00,BROOKLYN,11234,40.615383,-73.92891,0,0,Following Too Closely,4596094,Taxi,Moving Violation,Winter,Late Night,False
+2023-01-05 03:48:00,BROOKLYN,11234,40.61679,-73.92373,0,0,Traffic Control Disregarded,4595634,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-05 08:00:00,BROOKLYN,11236,40.642227,-73.90291,0,0,Turning Improperly,4595974,Sedan,Moving Violation,Winter,Morning,True
+2023-01-05 08:21:00,BROOKLYN,11201,40.69595,-73.9824,0,0,Passing or Lane Usage Improper,4597089,Sedan,Moving Violation,Winter,Morning,True
+2023-01-05 12:30:00,BROOKLYN,11201,40.686726,-73.99255,0,0,Passing Too Closely,4595666,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-05 12:51:00,BROOKLYN,11234,40.632343,-73.927315,0,0,Backing Unsafely,4596112,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-05 16:49:00,QUEENS,11373,40.737705,-73.88231,2,0,Driver Inattention/Distraction,4595664,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-05 18:08:00,BROOKLYN,11236,40.646717,-73.908195,1,0,Driver Inattention/Distraction,4595663,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-05 19:40:00,QUEENS,11385,40.71042,-73.85964,0,0,Passing or Lane Usage Improper,4598891,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,False
+2023-01-05 20:25:00,BROOKLYN,11206,40.696983,-73.935234,1,0,Driver Inattention/Distraction,4603128,Bike,Driver Inattention,Winter,Night,False
+2023-01-06 06:30:00,BROOKLYN,11201,40.69496,-73.98717,1,0,Unsafe Speed,4596471,Sedan,Moving Violation,Winter,Early Morning,True
+2023-01-06 07:20:00,BROOKLYN,11236,40.64932,-73.904175,0,0,Turning Improperly,4595887,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-06 09:45:00,QUEENS,11385,40.71364,-73.91789,0,0,Driver Inattention/Distraction,4596643,FORK LIFT,Driver Inattention,Winter,Morning,False
+2023-01-06 11:54:00,BROOKLYN,11201,40.691032,-73.997185,0,0,Unsafe Lane Changing,4596458,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-06 12:20:00,BROOKLYN,11206,40.69897,-73.95702,0,0,Unsafe Lane Changing,4597624,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-06 12:45:00,QUEENS,11101,40.748913,-73.9374,0,0,Passing or Lane Usage Improper,4596234,Pick-up Truck,Moving Violation,Winter,Afternoon,False
+2023-01-06 15:00:00,QUEENS,11101,40.745068,-73.936356,0,0,Driver Inattention/Distraction,4595843,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-06 17:12:00,BROOKLYN,11236,40.647537,-73.90786,0,0,Failure to Yield Right-of-Way,4597974,Sedan,Moving Violation,Winter,Evening,True
+2023-01-06 17:49:00,QUEENS,11373,40.74459,-73.884674,2,0,Unsafe Speed,4596006,Motorcycle,Moving Violation,Winter,Evening,True
+2023-01-06 20:50:00,BROOKLYN,11206,40.70767,-73.94325,1,0,Passing Too Closely,4597634,Sedan,Moving Violation,Winter,Night,False
+2023-01-06 22:20:00,BROOKLYN,11211,40.712162,-73.95907,3,0,Driver Inattention/Distraction,4596259,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-07 00:00:00,BROOKLYN,11207,40.652767,-73.8863,0,0,Following Too Closely,4596241,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-07 00:06:00,QUEENS,11368,40.743515,-73.86104,0,0,Driver Inattention/Distraction,4595997,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-07 00:09:00,BROOKLYN,11236,40.630383,-73.895004,0,0,Traffic Control Disregarded,4596731,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-07 01:05:00,BROOKLYN,11206,40.703762,-73.94262,0,0,Following Too Closely,4599016,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-07 05:20:00,BROOKLYN,11234,40.635063,-73.93056,0,0,Passing or Lane Usage Improper,4596757,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-01-07 07:00:00,BROOKLYN,11211,40.70709,-73.959984,0,0,Driver Inexperience,4600107,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-01-07 10:19:00,BROOKLYN,11211,40.71849,-73.950096,1,0,Passing or Lane Usage Improper,4596597,Sedan,Moving Violation,Winter,Morning,False
+2023-01-07 13:00:00,BROOKLYN,11236,40.632496,-73.89486,0,0,Passing or Lane Usage Improper,4595975,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-07 17:35:00,QUEENS,11385,40.69474,-73.8958,1,0,Failure to Yield Right-of-Way,4597257,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-07 17:50:00,QUEENS,11368,40.74788,-73.85731,1,0,Driver Inattention/Distraction,4596205,Pick-up Truck,Driver Inattention,Winter,Evening,True
+2023-01-07 18:54:00,BROOKLYN,11201,40.693146,-73.99509,1,0,Traffic Control Disregarded,4596469,Taxi,Moving Violation,Winter,Evening,True
+2023-01-07 23:15:00,BROOKLYN,11236,40.647724,-73.915306,1,0,Failure to Yield Right-of-Way,4596052,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-07 23:40:00,QUEENS,11373,40.733963,-73.87203,1,0,Reaction to Uninvolved Vehicle,4596009,Moped,Driver Inattention,Winter,Night,False
+2023-01-08 01:20:00,BROOKLYN,11207,40.658577,-73.89063,0,0,Aggressive Driving/Road Rage,4596250,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-08 01:30:00,BROOKLYN,11206,40.709602,-73.94141,1,0,Following Too Closely,4600118,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-08 02:42:00,QUEENS,11385,40.70747,-73.91007,0,0,Following Too Closely,4597264,Taxi,Moving Violation,Winter,Late Night,False
+2023-01-08 04:55:00,BROOKLYN,11207,40.66239,-73.88594,0,0,Driver Inattention/Distraction,4596253,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-01-08 10:30:00,BROOKLYN,11206,40.701942,-73.95573,1,0,Driver Inattention/Distraction,4596897,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-01-08 11:30:00,BROOKLYN,11207,40.66137,-73.89274,0,0,Passing Too Closely,4596256,Sedan,Moving Violation,Winter,Morning,False
+2023-01-08 11:40:00,QUEENS,11368,40.745266,-73.85596,0,0,Backing Unsafely,4598123,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-08 11:45:00,BROOKLYN,11236,40.636227,-73.88595,0,0,Driver Inattention/Distraction,4597057,Sedan,Driver Inattention,Winter,Morning,False
+2023-01-08 11:55:00,QUEENS,11385,40.69927,-73.89127,0,0,Following Too Closely,4596351,Pick-up Truck,Moving Violation,Winter,Morning,False
+2023-01-08 12:45:00,QUEENS,11101,40.753468,-73.91355,0,0,Passing or Lane Usage Improper,4596266,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-08 12:50:00,BROOKLYN,11234,40.606388,-73.925095,0,0,Driver Inattention/Distraction,4596232,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-08 14:37:00,BROOKLYN,11236,40.639637,-73.91533,2,0,Unsafe Speed,4596446,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-08 15:00:00,BROOKLYN,11236,40.63944,-73.90508,1,0,Passing or Lane Usage Improper,4596194,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-08 16:00:00,BROOKLYN,11234,40.632065,-73.91861,2,0,Following Too Closely,4597153,Sedan,Moving Violation,Winter,Evening,True
+2023-01-08 18:04:00,BROOKLYN,11234,40.617523,-73.94222,0,0,Unsafe Lane Changing,4596537,Sedan,Moving Violation,Winter,Evening,True
+2023-01-09 06:55:00,QUEENS,11385,40.70832,-73.90144,1,0,Driver Inattention/Distraction,4596353,Taxi,Driver Inattention,Winter,Early Morning,True
+2023-01-09 07:35:00,BROOKLYN,11211,40.716328,-73.948074,2,0,Failure to Yield Right-of-Way,4596495,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-09 07:48:00,BROOKLYN,11207,40.664333,-73.89684,1,0,Failure to Yield Right-of-Way,4596663,Sedan,Moving Violation,Winter,Early Morning,True
+2023-01-09 08:00:00,QUEENS,11385,40.71222,-73.91889,0,0,Turning Improperly,4599235,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,True
+2023-01-09 08:01:00,QUEENS,11385,40.702076,-73.87917,1,0,Failure to Yield Right-of-Way,4596447,Sedan,Moving Violation,Winter,Morning,True
+2023-01-09 08:30:00,QUEENS,11101,40.740276,-73.92782,0,0,Backing Unsafely,4596876,Bus,Moving Violation,Winter,Morning,True
+2023-01-09 08:55:00,QUEENS,11101,40.75203,-73.92915,1,0,Passing or Lane Usage Improper,4596696,Sedan,Moving Violation,Winter,Morning,True
+2023-01-09 09:30:00,BROOKLYN,11211,40.707474,-73.95704,0,0,Passing Too Closely,4597631,Sedan,Moving Violation,Winter,Morning,False
+2023-01-09 09:42:00,BROOKLYN,11206,40.70934,-73.93763,0,0,Passing or Lane Usage Improper,4600119,Pick-up Truck,Moving Violation,Winter,Morning,False
+2023-01-09 11:40:00,BROOKLYN,11236,40.644196,-73.91295,2,0,Failure to Yield Right-of-Way,4596470,Tractor Truck Diesel,Moving Violation,Winter,Morning,False
+2023-01-09 13:00:00,BROOKLYN,11236,40.647964,-73.91062,1,0,Following Too Closely,4596730,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-09 14:02:00,BROOKLYN,11234,40.61304,-73.92621,1,0,Failure to Yield Right-of-Way,4596539,Pick-up Truck,Moving Violation,Winter,Afternoon,False
+2023-01-09 14:10:00,BROOKLYN,11201,40.70381,-73.988304,0,0,Passing or Lane Usage Improper,4596868,Carry All,Moving Violation,Winter,Afternoon,False
+2023-01-09 14:39:00,QUEENS,11101,40.75201,-73.93016,0,0,Backing Unsafely,4596886,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-09 15:10:00,BROOKLYN,11206,40.710934,-73.94341,0,0,Passing or Lane Usage Improper,4597657,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-09 15:18:00,BROOKLYN,11207,40.65821,-73.882065,1,0,Driver Inattention/Distraction,4596666,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-09 16:19:00,BROOKLYN,11207,40.672455,-73.89403,1,0,Driver Inattention/Distraction,4596665,Pick-up Truck,Driver Inattention,Winter,Evening,True
+2023-01-09 16:45:00,BROOKLYN,11206,40.710453,-73.93734,0,0,Passing Too Closely,4598111,Sedan,Moving Violation,Winter,Evening,True
+2023-01-09 18:19:00,BROOKLYN,11206,40.701077,-73.94043,1,0,Following Too Closely,4597653,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-09 18:20:00,QUEENS,11385,40.701054,-73.90473,0,0,Turning Improperly,4596649,Sedan,Moving Violation,Winter,Evening,True
+2023-01-09 18:58:00,BROOKLYN,11234,40.6224,-73.936646,2,0,Turning Improperly,4596536,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-10 00:30:00,BROOKLYN,11236,40.636734,-73.89831,0,0,Driver Inattention/Distraction,4598520,Box Truck,Driver Inattention,Winter,Late Night,False
+2023-01-10 01:03:00,BROOKLYN,11207,40.668255,-73.892006,2,0,Backing Unsafely,4596562,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-01-10 06:50:00,BROOKLYN,11234,40.592167,-73.90815,0,0,Driver Inattention/Distraction,4597185,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-01-10 06:50:00,BROOKLYN,11201,40.7001,-73.98835,0,0,Passing or Lane Usage Improper,4597298,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-10 08:20:00,BROOKLYN,11211,40.71243,-73.95982,0,0,Driver Inattention/Distraction,4597633,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,True
+2023-01-10 08:30:00,QUEENS,11101,40.74198,-73.94643,0,0,Passing or Lane Usage Improper,4597139,Bus,Moving Violation,Winter,Morning,True
+2023-01-10 11:30:00,BROOKLYN,11207,40.669937,-73.90019,1,0,Following Too Closely,4600796,Sedan,Moving Violation,Winter,Morning,False
+2023-01-10 12:54:00,BROOKLYN,11236,40.63989,-73.89647,1,0,Following Too Closely,4596957,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-10 16:35:00,BROOKLYN,11207,40.66278,-73.88086,0,0,Driver Inattention/Distraction,4597192,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-10 17:30:00,QUEENS,11373,40.74483,-73.89104,0,0,Driver Inattention/Distraction,4597166,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-10 17:54:00,BROOKLYN,11234,40.63413,-73.928505,1,0,Failure to Yield Right-of-Way,4597150,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-10 18:35:00,BROOKLYN,11201,40.69595,-73.9824,0,0,Passing Too Closely,4596855,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-10 18:58:00,BROOKLYN,11234,40.614456,-73.9154,1,0,Unsafe Speed,4597151,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-10 19:30:00,BROOKLYN,11211,40.707005,-73.95534,0,0,Passing or Lane Usage Improper,4597678,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,False
+2023-01-10 23:32:00,QUEENS,11101,40.758076,-73.94199,0,0,Driver Inattention/Distraction,4597730,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-11 00:00:00,BROOKLYN,11234,40.633144,-73.92356,0,0,Passing Too Closely,4597798,Bus,Moving Violation,Winter,Late Night,False
+2023-01-11 06:19:00,BROOKLYN,11207,40.674114,-73.88975,2,0,Failure to Yield Right-of-Way,4597189,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-11 07:00:00,BROOKLYN,11236,40.63747,-73.91027,0,0,Turning Improperly,4598522,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-11 08:44:00,QUEENS,11373,40.748367,-73.87693,1,0,Turning Improperly,4597404,Sedan,Moving Violation,Winter,Morning,True
+2023-01-11 11:20:00,QUEENS,11385,40.70456,-73.856735,1,0,Following Too Closely,4597199,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-11 16:55:00,BROOKLYN,11211,40.70518,-73.95934,1,0,Driver Inattention/Distraction,4597680,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-11 19:00:00,BROOKLYN,11201,40.693512,-73.97998,0,0,Driver Inexperience,4597119,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-11 19:50:00,QUEENS,11385,40.700577,-73.89735,0,0,Passing or Lane Usage Improper,4597986,Sedan,Moving Violation,Winter,Evening,False
+2023-01-11 20:17:00,QUEENS,11385,40.70403,-73.90974,0,0,Reaction to Uninvolved Vehicle,4597197,Sedan,Driver Inattention,Winter,Night,False
+2023-01-11 20:36:00,QUEENS,11373,40.745197,-73.871574,0,0,Turning Improperly,4597165,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-11 21:00:00,BROOKLYN,11201,40.696033,-73.984535,0,0,Following Too Closely,4599212,Sedan,Moving Violation,Winter,Night,False
+2023-01-11 22:27:00,BROOKLYN,11236,40.64117,-73.90625,0,0,Passing or Lane Usage Improper,4598264,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-12 00:00:00,BROOKLYN,11211,40.70479,-73.961876,2,0,Backing Unsafely,4597662,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-12 00:00:00,BROOKLYN,11236,40.644295,-73.90139,1,0,Driver Inattention/Distraction,4597222,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-12 01:18:00,QUEENS,11385,40.706753,-73.91437,0,0,Traffic Control Disregarded,4597989,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-12 02:00:00,QUEENS,11368,40.73994,-73.850266,0,0,Unsafe Speed,4610736,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-12 06:05:00,BROOKLYN,11234,40.62356,-73.927376,0,0,Driver Inattention/Distraction,4597233,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-01-12 06:35:00,QUEENS,11385,40.711452,-73.91987,0,0,Following Too Closely,4598152,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-12 09:30:00,BROOKLYN,11206,40.70462,-73.94875,1,0,Passing Too Closely,4597620,Dump,Moving Violation,Winter,Morning,False
+2023-01-12 10:00:00,BROOKLYN,11234,40.614838,-73.92959,0,0,Passing Too Closely,4597800,Sedan,Moving Violation,Winter,Morning,False
+2023-01-12 10:25:00,BROOKLYN,11236,40.646114,-73.904785,1,0,Driver Inattention/Distraction,4597297,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-01-12 12:04:00,BROOKLYN,11201,40.702457,-73.98764,0,0,Turning Improperly,4597891,Tanker,Moving Violation,Winter,Afternoon,False
+2023-01-12 14:40:00,BROOKLYN,11236,40.640583,-73.91894,0,0,Driver Inattention/Distraction,4597341,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-01-12 15:50:00,BROOKLYN,11211,40.70636,-73.95192,0,0,Backing Unsafely,4598432,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-12 16:00:00,BROOKLYN,11207,40.675735,-73.89686,1,0,Turning Improperly,4598213,Sedan,Moving Violation,Winter,Evening,True
+2023-01-12 18:10:00,QUEENS,11385,40.70237,-73.90696,1,0,Failure to Yield Right-of-Way,4599634,Bike,Moving Violation,Winter,Evening,True
+2023-01-12 18:30:00,BROOKLYN,11236,40.64883,-73.90492,0,0,Driver Inattention/Distraction,4597342,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-12 18:40:00,BROOKLYN,11236,40.65187,-73.90456,1,0,Driver Inattention/Distraction,4597394,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-12 19:00:00,BROOKLYN,11207,40.677433,-73.89889,0,0,Turning Improperly,4597674,Sedan,Moving Violation,Winter,Evening,True
+2023-01-12 20:00:00,BROOKLYN,11207,40.6603,-73.89407,0,0,Driver Inattention/Distraction,4598228,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-12 21:10:00,QUEENS,11385,40.704605,-73.868484,1,0,Failure to Yield Right-of-Way,4597384,Sedan,Moving Violation,Winter,Night,False
+2023-01-12 22:00:00,BROOKLYN,11211,40.710785,-73.95995,1,0,Failure to Yield Right-of-Way,4597636,Sedan,Moving Violation,Winter,Night,False
+2023-01-12 22:39:00,QUEENS,11101,40.750645,-73.94566,0,0,Driver Inattention/Distraction,4597595,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-13 00:00:00,BROOKLYN,11211,40.71196,-73.9407,1,0,Driver Inattention/Distraction,4597632,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-01-13 03:05:00,BROOKLYN,11207,40.674397,-73.896515,3,0,Traffic Control Disregarded,4597383,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-01-13 10:56:00,QUEENS,11385,40.7088,-73.86573,0,0,Aggressive Driving/Road Rage,4597492,Sedan,Driver Inattention,Winter,Morning,False
+2023-01-13 12:00:00,QUEENS,11101,40.74893,-73.951645,1,0,Driver Inattention/Distraction,4597593,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-01-13 13:20:00,BROOKLYN,11211,40.707798,-73.95611,1,0,Turning Improperly,4597656,Moped,Moving Violation,Winter,Afternoon,False
+2023-01-13 14:33:00,BROOKLYN,11234,40.623978,-73.92063,1,0,Driver Inexperience,4597792,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-13 16:10:00,BROOKLYN,11236,40.637962,-73.91347,0,0,Driver Inattention/Distraction,4597533,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-13 16:27:00,QUEENS,11101,40.744667,-73.931694,1,0,Driver Inattention/Distraction,4597596,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-13 18:25:00,QUEENS,11385,40.70985,-73.917145,1,0,Failure to Yield Right-of-Way,4600416,Sedan,Moving Violation,Winter,Evening,True
+2023-01-13 18:45:00,BROOKLYN,11234,40.633965,-73.91968,0,0,Backing Unsafely,4597799,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-13 22:14:00,BROOKLYN,11206,40.701183,-73.93997,1,0,Driver Inattention/Distraction,4600123,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-13 22:24:00,BROOKLYN,11211,40.714825,-73.95882,0,0,Failure to Yield Right-of-Way,4598108,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-14 00:00:00,BROOKLYN,11207,40.66906,-73.88658,0,0,Aggressive Driving/Road Rage,4598238,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-14 00:30:00,BROOKLYN,11206,40.693867,-73.93629,0,0,Unsafe Speed,4597953,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-14 03:30:00,QUEENS,11368,40.739635,-73.86074,0,0,Driver Inattention/Distraction,4597850,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-01-14 10:20:00,BROOKLYN,11211,40.714836,-73.952934,0,0,Turning Improperly,4598043,Tractor Truck Diesel,Moving Violation,Winter,Morning,False
+2023-01-14 10:59:00,BROOKLYN,11236,40.631424,-73.88543,0,0,Passing Too Closely,4601814,Sedan,Moving Violation,Winter,Morning,False
+2023-01-14 12:14:00,BROOKLYN,11207,40.69169,-73.90585,0,0,Passing Too Closely,4597755,Bus,Moving Violation,Winter,Afternoon,False
+2023-01-14 14:30:00,QUEENS,11368,40.73862,-73.8508,0,0,Driver Inattention/Distraction,4597851,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-14 16:16:00,BROOKLYN,11211,40.717422,-73.957054,0,0,Passing Too Closely,4598413,Sedan,Moving Violation,Winter,Evening,True
+2023-01-14 16:18:00,BROOKLYN,11207,40.661396,-73.87919,0,0,Driver Inattention/Distraction,4598237,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-14 18:00:00,QUEENS,11385,40.701046,-73.91068,0,0,Following Too Closely,4599635,Sedan,Moving Violation,Winter,Evening,True
+2023-01-14 21:29:00,BROOKLYN,11207,40.659832,-73.897606,0,0,Driver Inattention/Distraction,4598232,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-14 21:45:00,QUEENS,11373,40.743057,-73.87769,0,0,Driver Inattention/Distraction,4597839,Sedan,Driver Inattention,Winter,Night,False
+2023-01-14 23:18:00,BROOKLYN,11207,40.663296,-73.88979,0,0,Failure to Yield Right-of-Way,4598236,Sedan,Moving Violation,Winter,Night,False
+2023-01-15 00:57:00,QUEENS,11368,40.747196,-73.86033,1,0,Driver Inattention/Distraction,4597853,E-Scooter,Driver Inattention,Winter,Late Night,False
+2023-01-15 01:20:00,BROOKLYN,11206,40.702152,-73.94438,0,0,Passing Too Closely,4600154,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-15 03:43:00,BROOKLYN,11207,40.65768,-73.887794,1,0,Traffic Control Disregarded,4598220,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-15 05:20:00,QUEENS,11385,40.705776,-73.90425,0,0,Driver Inattention/Distraction,4597982,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,False
+2023-01-15 10:38:00,QUEENS,11385,40.700916,-73.90035,0,0,Driver Inattention/Distraction,4597990,Sedan,Driver Inattention,Winter,Morning,False
+2023-01-15 11:56:00,BROOKLYN,11234,40.619484,-73.918274,0,0,Driver Inattention/Distraction,4598270,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-01-15 12:00:00,BROOKLYN,11211,40.7118,-73.94224,0,0,Passing Too Closely,4600161,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-15 12:13:00,BROOKLYN,11236,40.64681,-73.913315,0,0,Failure to Yield Right-of-Way,4599329,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-15 12:15:00,BROOKLYN,11236,40.64696,-73.91348,0,0,Turning Improperly,4598183,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-15 14:37:00,QUEENS,11385,40.702995,-73.91107,1,0,Traffic Control Disregarded,4598004,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-15 18:16:00,BROOKLYN,11236,40.644436,-73.89507,0,0,Traffic Control Disregarded,4597971,Sedan,Moving Violation,Winter,Evening,True
+2023-01-15 18:50:00,QUEENS,11101,40.755234,-73.941246,1,0,Driver Inattention/Distraction,4598302,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-15 20:30:00,BROOKLYN,11236,40.63931,-73.89432,0,0,Driver Inattention/Distraction,4597976,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-15 23:00:00,BROOKLYN,11207,40.65662,-73.889175,0,0,Unsafe Speed,4598211,Tractor Truck Diesel,Moving Violation,Winter,Night,False
+2023-01-16 00:34:00,BROOKLYN,11234,40.616013,-73.91323,1,0,Unsafe Speed,4598274,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-01-16 05:35:00,BROOKLYN,11207,40.657036,-73.89383,0,0,Backing Unsafely,4598124,Sedan,Moving Violation,Winter,Early Morning,False
+2023-01-16 08:30:00,BROOKLYN,11211,40.7138,-73.93319,0,0,Driver Inexperience,4599844,Sedan,Driver Inattention,Winter,Morning,True
+2023-01-16 09:40:00,BROOKLYN,11236,40.637115,-73.91078,2,0,Driver Inexperience,4598179,Taxi,Driver Inattention,Winter,Morning,False
+2023-01-16 10:30:00,QUEENS,11368,40.738373,-73.86008,0,0,Following Too Closely,4600330,Sedan,Moving Violation,Winter,Morning,False
+2023-01-16 12:45:00,BROOKLYN,11201,40.68969,-73.99237,0,0,Failure to Yield Right-of-Way,4598511,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-16 14:00:00,BROOKLYN,11211,40.70793,-73.9521,0,0,Passing Too Closely,4599780,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-16 14:02:00,BROOKLYN,11234,40.623867,-73.92226,0,0,Driver Inexperience,4599265,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-16 15:00:00,BROOKLYN,11206,40.701912,-73.93699,0,0,Driver Inattention/Distraction,4598985,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-16 15:08:00,BROOKLYN,11236,40.65187,-73.90456,0,0,Passing Too Closely,4598265,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-16 15:20:00,QUEENS,11101,40.754635,-73.92252,1,0,Failure to Yield Right-of-Way,4598628,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-16 16:00:00,BROOKLYN,11206,40.700203,-73.94434,0,0,Passing Too Closely,4599005,Ambulance,Moving Violation,Winter,Evening,True
+2023-01-16 17:23:00,BROOKLYN,11236,40.64509,-73.90637,0,0,Driver Inattention/Distraction,4598266,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-16 17:25:00,QUEENS,11385,40.692314,-73.88268,0,0,Reaction to Uninvolved Vehicle,4598895,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-16 17:26:00,QUEENS,11101,40.750645,-73.94566,0,0,Driver Inattention/Distraction,4598580,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-16 17:46:00,QUEENS,11385,40.702343,-73.90938,1,0,Following Too Closely,4598705,Sedan,Moving Violation,Winter,Evening,True
+2023-01-16 18:52:00,BROOKLYN,11206,40.6997,-73.94425,1,0,Unsafe Lane Changing,4598485,E-Bike,Moving Violation,Winter,Evening,True
+2023-01-16 20:09:00,BROOKLYN,11236,40.631798,-73.901596,2,0,Driver Inexperience,4598267,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-16 21:25:00,QUEENS,11101,40.75203,-73.92915,3,0,Driver Inattention/Distraction,4600483,Sedan,Driver Inattention,Winter,Night,False
+2023-01-16 21:30:00,BROOKLYN,11211,40.71337,-73.934814,1,0,Driver Inexperience,4599840,Moped,Driver Inattention,Winter,Night,False
+2023-01-17 01:30:00,QUEENS,11368,40.74849,-73.86355,0,0,Driver Inattention/Distraction,4598327,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-17 02:03:00,BROOKLYN,11234,40.62553,-73.932434,1,0,Traffic Control Disregarded,4599273,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-17 09:15:00,BROOKLYN,11211,40.708534,-73.96258,1,0,Driver Inattention/Distraction,4598431,Sedan,Driver Inattention,Winter,Morning,False
+2023-01-17 10:48:00,BROOKLYN,11236,40.64639,-73.90371,0,0,Traffic Control Disregarded,4598519,Sedan,Moving Violation,Winter,Morning,False
+2023-01-17 12:00:00,QUEENS,11385,40.700592,-73.85457,0,0,Passing or Lane Usage Improper,4598446,Box Truck,Moving Violation,Winter,Afternoon,False
+2023-01-17 13:35:00,QUEENS,11101,40.745865,-73.926704,1,0,Traffic Control Disregarded,4598582,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-17 14:30:00,QUEENS,11373,40.738323,-73.8856,0,0,Driver Inexperience,4598609,Flat Bed,Driver Inattention,Winter,Afternoon,False
+2023-01-17 14:30:00,BROOKLYN,11234,40.62637,-73.914505,1,0,Driver Inattention/Distraction,4600120,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-01-17 14:40:00,QUEENS,11368,40.738373,-73.86008,0,0,Following Too Closely,4598598,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-17 15:30:00,BROOKLYN,11207,40.655495,-73.88833,0,0,Driver Inattention/Distraction,4599982,Bus,Driver Inattention,Winter,Afternoon,False
+2023-01-17 18:21:00,QUEENS,11385,40.712986,-73.907715,0,0,Driver Inattention/Distraction,4599129,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-17 20:29:00,QUEENS,11368,40.7366,-73.856674,1,0,Unsafe Speed,4598745,Sedan,Moving Violation,Winter,Night,False
+2023-01-18 02:44:00,BROOKLYN,11211,40.714382,-73.93345,1,0,Backing Unsafely,4598925,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-18 06:38:00,QUEENS,11101,40.74854,-73.94964,1,0,Driver Inattention/Distraction,4598727,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-01-18 09:35:00,BROOKLYN,11234,40.61593,-73.91312,0,0,Passing Too Closely,4600143,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-18 10:28:00,QUEENS,11385,40.70665,-73.91328,0,0,Backing Unsafely,4598975,Ambulance,Moving Violation,Winter,Morning,False
+2023-01-18 13:00:00,QUEENS,11101,40.737675,-73.93618,0,0,Driver Inattention/Distraction,4599555,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-18 16:31:00,BROOKLYN,11234,40.63699,-73.92015,1,0,Driver Inattention/Distraction,4599252,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-18 17:55:00,BROOKLYN,11234,40.60897,-73.92159,0,0,Driver Inattention/Distraction,4600138,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-18 20:10:00,BROOKLYN,11207,40.654846,-73.88569,1,0,Failure to Yield Right-of-Way,4599964,Sedan,Moving Violation,Winter,Night,False
+2023-01-18 20:32:00,BROOKLYN,11234,40.629143,-73.923134,0,0,Driver Inattention/Distraction,4600792,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-18 21:25:00,BROOKLYN,11211,40.715984,-73.95328,1,0,Backing Unsafely,4598731,Sedan,Moving Violation,Winter,Night,False
+2023-01-19 05:00:00,BROOKLYN,11206,40.70128,-73.93952,0,0,Driver Inattention/Distraction,4598763,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-01-19 06:30:00,QUEENS,11101,40.7539,-73.93871,0,0,Driver Inattention/Distraction,4599433,Tractor Truck Diesel,Driver Inattention,Winter,Early Morning,True
+2023-01-19 06:55:00,BROOKLYN,11207,40.66278,-73.88086,1,0,Driver Inexperience,4600002,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-01-19 08:01:00,QUEENS,11385,40.702995,-73.868004,1,0,Driver Inattention/Distraction,4598959,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,True
+2023-01-19 09:30:00,BROOKLYN,11206,40.70351,-73.94512,2,0,Failure to Yield Right-of-Way,4602980,Sedan,Moving Violation,Winter,Morning,False
+2023-01-19 18:07:00,BROOKLYN,11234,40.63183,-73.92249,2,0,Failure to Yield Right-of-Way,4599266,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-19 18:10:00,QUEENS,11368,40.74869,-73.85772,2,0,Driver Inattention/Distraction,4606856,E-Bike,Driver Inattention,Winter,Evening,True
+2023-01-20 04:00:00,QUEENS,11101,40.742443,-73.93023,1,0,Driver Inattention/Distraction,4599290,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,False
+2023-01-20 06:40:00,QUEENS,11101,40.743195,-73.93673,1,0,Failure to Yield Right-of-Way,4599474,Sedan,Moving Violation,Winter,Early Morning,True
+2023-01-20 08:13:00,QUEENS,11101,40.752155,-73.928955,1,0,Failure to Yield Right-of-Way,4599439,Sedan,Moving Violation,Winter,Morning,True
+2023-01-20 09:20:00,BROOKLYN,11207,40.671204,-73.90051,2,0,Traffic Control Disregarded,4599991,Sedan,Moving Violation,Winter,Morning,False
+2023-01-20 13:44:00,BROOKLYN,11207,40.675495,-73.88916,1,0,Driver Inattention/Distraction,4599990,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-20 14:00:00,BROOKLYN,11206,40.697315,-73.932274,1,0,Passing or Lane Usage Improper,4599307,Motorscooter,Moving Violation,Winter,Afternoon,False
+2023-01-20 15:35:00,BROOKLYN,11236,40.645756,-73.897446,0,0,Driver Inattention/Distraction,4599270,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-20 19:15:00,BROOKLYN,11236,40.635506,-73.913284,0,0,Following Too Closely,4599272,E-Bike,Moving Violation,Winter,Evening,False
+2023-01-20 19:50:00,QUEENS,11373,40.731277,-73.871574,0,0,Driver Inattention/Distraction,4599458,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,False
+2023-01-20 23:05:00,BROOKLYN,11206,40.706852,-73.948204,0,0,Driver Inattention/Distraction,4602699,Sedan,Driver Inattention,Winter,Night,False
+2023-01-20 23:48:00,QUEENS,11385,40.70212,-73.90959,0,0,Traffic Control Disregarded,4600345,MOTOR SCOO,Moving Violation,Winter,Night,False
+2023-01-21 00:45:00,BROOKLYN,11206,40.70753,-73.9489,0,0,Passing Too Closely,4600159,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-01-21 01:00:00,QUEENS,11368,40.75623,-73.85769,0,0,Driver Inattention/Distraction,4600777,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-01-21 02:26:00,QUEENS,11368,40.73929,-73.85288,1,0,Driver Inattention/Distraction,4599491,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-21 10:30:00,BROOKLYN,11234,40.61891,-73.93784,0,0,Backing Unsafely,4601401,Sedan,Moving Violation,Winter,Morning,False
+2023-01-21 12:30:00,QUEENS,11373,40.735542,-73.88046,0,0,Driver Inattention/Distraction,4599488,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-21 14:15:00,BROOKLYN,11206,40.70547,-73.95024,1,0,Driver Inattention/Distraction,4599832,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-01-21 15:20:00,BROOKLYN,11207,40.682163,-73.889015,3,0,Following Too Closely,4600008,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-21 16:50:00,BROOKLYN,11206,40.70219,-73.928345,0,0,Turning Improperly,4601246,Sedan,Moving Violation,Winter,Evening,True
+2023-01-21 17:18:00,QUEENS,11101,40.745068,-73.936356,0,0,Driver Inattention/Distraction,4599477,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-21 19:30:00,BROOKLYN,11234,40.61697,-73.93321,1,0,Driver Inattention/Distraction,4600140,Sedan,Driver Inattention,Winter,Evening,False
+2023-01-21 20:16:00,BROOKLYN,11236,40.64891,-73.89256,2,0,Unsafe Lane Changing,4599592,Taxi,Moving Violation,Winter,Night,False
+2023-01-21 20:40:00,BROOKLYN,11211,40.710957,-73.951126,1,0,Failure to Yield Right-of-Way,4600070,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-22 02:00:00,BROOKLYN,11201,40.69985,-73.991035,0,0,Driver Inexperience,4599566,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-22 03:40:00,BROOKLYN,11236,40.643776,-73.913765,0,0,Unsafe Lane Changing,4599885,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-01-22 08:30:00,QUEENS,11368,40.75254,-73.85261,0,0,Passing Too Closely,4599894,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,True
+2023-01-22 13:02:00,BROOKLYN,11234,40.62621,-73.927666,1,0,Driver Inattention/Distraction,4600141,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-22 14:21:00,BROOKLYN,11201,40.699738,-73.98212,0,0,Passing or Lane Usage Improper,4600818,Pick-up Truck,Moving Violation,Winter,Afternoon,False
+2023-01-22 15:10:00,QUEENS,11101,40.748913,-73.9374,1,0,Driver Inattention/Distraction,4599582,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-22 16:42:00,BROOKLYN,11211,40.713398,-73.95641,0,0,Failure to Yield Right-of-Way,4600162,Sedan,Moving Violation,Winter,Evening,True
+2023-01-22 19:43:00,QUEENS,11101,40.737537,-73.929955,0,0,Driver Inattention/Distraction,4599619,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,False
+2023-01-22 23:23:00,BROOKLYN,11201,40.69205,-73.982544,1,0,Driver Inattention/Distraction,4599626,Sedan,Driver Inattention,Winter,Night,False
+2023-01-23 00:47:00,BROOKLYN,11207,40.675735,-73.89686,2,0,Traffic Control Disregarded,4600012,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-23 01:08:00,BROOKLYN,11234,40.614994,-73.903305,0,0,Driver Inattention/Distraction,4600134,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-01-23 06:00:00,BROOKLYN,11201,40.690292,-73.98444,0,0,Driver Inattention/Distraction,4600032,Bus,Driver Inattention,Winter,Early Morning,True
+2023-01-23 06:30:00,BROOKLYN,11211,40.713573,-73.960815,0,0,Driver Inattention/Distraction,4606140,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-01-23 06:47:00,BROOKLYN,11236,40.648598,-73.920364,0,0,Failure to Yield Right-of-Way,4600420,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-23 08:25:00,QUEENS,11368,40.743202,-73.864265,0,0,Driver Inattention/Distraction,4600046,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,True
+2023-01-23 08:30:00,BROOKLYN,11211,40.713245,-73.942474,0,0,Driver Inattention/Distraction,4599810,Sedan,Driver Inattention,Winter,Morning,True
+2023-01-23 09:59:00,QUEENS,11373,40.74141,-73.88461,1,0,Driver Inattention/Distraction,4600329,Moped,Driver Inattention,Winter,Morning,False
+2023-01-23 10:50:00,QUEENS,11373,40.733498,-73.87038,0,0,Reaction to Uninvolved Vehicle,4600042,Sedan,Driver Inattention,Winter,Morning,False
+2023-01-23 14:49:00,QUEENS,11373,40.74124,-73.869514,0,0,Driver Inexperience,4600049,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-23 15:38:00,BROOKLYN,11236,40.641727,-73.907646,0,0,Failure to Yield Right-of-Way,4601052,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-23 16:35:00,QUEENS,11101,40.75166,-73.93355,1,0,Unsafe Lane Changing,4600490,Moped,Moving Violation,Winter,Evening,True
+2023-01-23 16:40:00,QUEENS,11373,40.73485,-73.87956,2,0,Driver Inattention/Distraction,4600045,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-23 18:40:00,BROOKLYN,11206,40.71106,-73.942116,2,0,Passing or Lane Usage Improper,4600448,Motorcycle,Moving Violation,Winter,Evening,True
+2023-01-23 18:55:00,BROOKLYN,11211,40.716064,-73.939026,0,0,Driver Inattention/Distraction,4601298,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-23 21:44:00,BROOKLYN,11236,40.640022,-73.88888,1,0,Driver Inattention/Distraction,4601019,Pick-up Truck,Driver Inattention,Winter,Night,False
+2023-01-24 00:00:00,BROOKLYN,11211,40.708656,-73.95859,1,0,Driver Inattention/Distraction,4600749,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-24 05:50:00,QUEENS,11101,40.73572,-73.93677,1,0,Driver Inattention/Distraction,4600505,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-01-24 06:30:00,QUEENS,11101,40.75591,-73.94061,1,0,Driver Inattention/Distraction,4601202,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-01-24 08:20:00,QUEENS,11101,40.745945,-73.95552,0,0,Following Too Closely,4600506,Tanker,Moving Violation,Winter,Morning,True
+2023-01-24 12:23:00,BROOKLYN,11206,40.7109,-73.943794,1,0,Failure to Yield Right-of-Way,4601276,Box Truck,Moving Violation,Winter,Afternoon,False
+2023-01-24 15:00:00,BROOKLYN,11207,40.652767,-73.8863,1,0,Driver Inattention/Distraction,4601067,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-24 16:26:00,BROOKLYN,11206,40.70604,-73.94129,1,0,Failure to Yield Right-of-Way,4601613,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-24 17:00:00,BROOKLYN,11211,40.7042,-73.95825,0,0,Following Too Closely,4600751,Sedan,Moving Violation,Winter,Evening,True
+2023-01-24 17:20:00,BROOKLYN,11201,40.69024,-73.99437,1,0,Driver Inattention/Distraction,4600297,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-24 21:32:00,BROOKLYN,11207,40.679337,-73.89483,1,0,Driver Inattention/Distraction,4601084,E-Bike,Driver Inattention,Winter,Night,False
+2023-01-24 22:30:00,BROOKLYN,11236,40.636986,-73.88923,0,0,Driver Inattention/Distraction,4600465,Taxi,Driver Inattention,Winter,Night,False
+2023-01-24 22:40:00,BROOKLYN,11206,40.704624,-73.93503,0,0,Passing or Lane Usage Improper,4600750,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-24 23:06:00,BROOKLYN,11201,40.691227,-73.98214,0,0,Turning Improperly,4600882,Sedan,Moving Violation,Winter,Night,False
+2023-01-24 23:45:00,QUEENS,11368,40.74869,-73.85772,1,0,Driver Inattention/Distraction,4603947,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-25 07:00:00,QUEENS,11385,40.71364,-73.91789,0,0,Following Too Closely,4600907,Sedan,Moving Violation,Winter,Early Morning,True
+2023-01-25 07:05:00,BROOKLYN,11211,40.70193,-73.957275,0,0,Backing Unsafely,4600360,Sedan,Moving Violation,Winter,Early Morning,True
+2023-01-25 07:55:00,BROOKLYN,11236,40.636242,-73.893776,0,0,Passing or Lane Usage Improper,4602436,Bus,Moving Violation,Winter,Early Morning,True
+2023-01-25 09:30:00,BROOKLYN,11211,40.71196,-73.9407,0,0,Driver Inattention/Distraction,4602238,Sedan,Driver Inattention,Winter,Morning,False
+2023-01-25 09:30:00,QUEENS,11385,40.702972,-73.888054,0,0,Backing Unsafely,4600435,Sedan,Moving Violation,Winter,Morning,False
+2023-01-25 11:55:00,BROOKLYN,11236,40.639275,-73.90746,1,0,Failure to Yield Right-of-Way,4602176,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-25 12:00:00,BROOKLYN,11236,40.646717,-73.908195,0,0,Driver Inattention/Distraction,4600552,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-01-25 12:25:00,BROOKLYN,11207,40.658646,-73.89044,0,0,Backing Unsafely,4601069,Pick-up Truck,Moving Violation,Winter,Afternoon,False
+2023-01-25 12:55:00,BROOKLYN,11211,40.703896,-73.958786,1,0,Driver Inattention/Distraction,4600755,Bike,Driver Inattention,Winter,Afternoon,False
+2023-01-25 13:30:00,BROOKLYN,11206,40.701782,-73.9423,0,0,Following Too Closely,4600754,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-25 14:22:00,BROOKLYN,11207,40.652767,-73.8863,1,0,Following Too Closely,4601070,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-25 15:30:00,QUEENS,11373,40.74675,-73.88951,0,0,Driver Inattention/Distraction,4601227,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-25 16:30:00,BROOKLYN,11206,40.702847,-73.93353,0,0,Driver Inattention/Distraction,4605966,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-25 16:35:00,BROOKLYN,11211,40.711323,-73.94725,1,0,Turning Improperly,4600753,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-25 16:36:00,QUEENS,11373,40.738995,-73.88918,0,0,Driver Inattention/Distraction,4600609,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-25 17:45:00,BROOKLYN,11206,40.695377,-73.94921,1,0,Failure to Yield Right-of-Way,4600727,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-25 19:20:00,BROOKLYN,11211,40.715927,-73.957634,1,0,Failure to Yield Right-of-Way,4601112,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,False
+2023-01-25 19:20:00,BROOKLYN,11207,40.660328,-73.88656,2,0,Failure to Yield Right-of-Way,4601073,Sedan,Moving Violation,Winter,Evening,False
+2023-01-25 20:40:00,BROOKLYN,11234,40.625786,-73.92832,1,0,Driver Inattention/Distraction,4602061,Sedan,Driver Inattention,Winter,Night,False
+2023-01-25 21:04:00,QUEENS,11385,40.71184,-73.905594,1,0,Failure to Yield Right-of-Way,4601509,Motorcycle,Moving Violation,Winter,Night,False
+2023-01-25 21:40:00,BROOKLYN,11207,40.65452,-73.882225,0,0,Driver Inexperience,4601074,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-26 01:15:00,QUEENS,11368,40.75609,-73.85858,0,0,Driver Inattention/Distraction,4600979,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-01-26 06:30:00,BROOKLYN,11206,40.69798,-73.93704,0,0,Driver Inattention/Distraction,4601434,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-01-26 06:40:00,QUEENS,11385,40.705223,-73.87857,1,0,Failure to Yield Right-of-Way,4600631,Sedan,Moving Violation,Winter,Early Morning,True
+2023-01-26 07:15:00,QUEENS,11101,40.742874,-73.933945,0,0,Driver Inattention/Distraction,4600879,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-01-26 08:25:00,BROOKLYN,11207,40.657814,-73.89613,2,0,Following Too Closely,4601088,Tow Truck / Wrecker,Moving Violation,Winter,Morning,True
+2023-01-26 10:30:00,QUEENS,11101,40.748276,-73.93918,0,0,Backing Unsafely,4600881,Sedan,Moving Violation,Winter,Morning,False
+2023-01-26 11:49:00,BROOKLYN,11211,40.715614,-73.94796,0,0,Unsafe Speed,4601147,PK,Moving Violation,Winter,Morning,False
+2023-01-26 12:40:00,BROOKLYN,11236,40.636505,-73.91572,0,0,Following Too Closely,4600828,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-26 13:00:00,BROOKLYN,11206,40.703472,-73.9306,0,0,Passing Too Closely,4601004,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-26 16:45:00,BROOKLYN,11211,40.71361,-73.9591,0,0,Driver Inattention/Distraction,4602268,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-26 18:14:00,BROOKLYN,11236,40.640568,-73.91391,1,0,Traffic Control Disregarded,4601053,Sedan,Moving Violation,Winter,Evening,True
+2023-01-26 19:00:00,BROOKLYN,11234,40.61298,-73.92631,0,0,Driver Inattention/Distraction,4601402,Sedan,Driver Inattention,Winter,Evening,True
+2023-01-27 00:00:00,BROOKLYN,11207,40.66545,-73.88939,0,0,Unsafe Speed,4601459,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-01-27 01:29:00,BROOKLYN,11236,40.642002,-73.898834,1,0,Driver Inattention/Distraction,4601054,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-27 06:00:00,QUEENS,11101,40.748913,-73.9374,0,0,Failure to Yield Right-of-Way,4601117,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-01-27 08:40:00,BROOKLYN,11206,40.700108,-73.95383,0,0,Passing or Lane Usage Improper,4601311,Box Truck,Moving Violation,Winter,Morning,True
+2023-01-27 09:01:00,BROOKLYN,11206,40.6997,-73.94425,1,0,Driver Inattention/Distraction,4601976,Garbage or Refuse,Driver Inattention,Winter,Morning,False
+2023-01-27 11:00:00,BROOKLYN,11201,40.693665,-73.983696,0,0,Backing Unsafely,4601912,Sedan,Moving Violation,Winter,Morning,False
+2023-01-27 11:56:00,BROOKLYN,11234,40.621483,-73.9252,0,0,Passing or Lane Usage Improper,4604862,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-27 12:30:00,BROOKLYN,11211,40.71528,-73.93386,0,0,Unsafe Speed,4602269,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-27 15:20:00,QUEENS,11385,40.691433,-73.89063,0,0,Passing or Lane Usage Improper,4603697,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-27 15:40:00,QUEENS,11101,40.755234,-73.941246,1,0,Failure to Yield Right-of-Way,4601207,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-27 18:00:00,BROOKLYN,11234,40.613056,-73.91757,1,0,Driver Inattention/Distraction,4601404,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-27 18:01:00,BROOKLYN,11236,40.63686,-73.91345,0,0,Backing Unsafely,4601051,Sedan,Moving Violation,Winter,Evening,True
+2023-01-27 19:30:00,QUEENS,11385,40.711094,-73.91705,0,0,Driver Inattention/Distraction,4603273,Sedan,Driver Inattention,Winter,Evening,False
+2023-01-27 21:45:00,BROOKLYN,11207,40.67258,-73.89122,6,0,Failure to Yield Right-of-Way,4601057,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-27 21:50:00,BROOKLYN,11207,40.66531,-73.890305,0,0,Unsafe Speed,4601462,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-27 21:50:00,BROOKLYN,11207,40.66447,-73.89593,0,0,Unsafe Speed,4601451,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-27 22:15:00,BROOKLYN,11211,40.7124,-73.95136,1,0,Passing or Lane Usage Improper,4602697,Sedan,Moving Violation,Winter,Night,False
+2023-01-28 04:50:00,BROOKLYN,11211,40.7138,-73.93319,0,0,Failure to Yield Right-of-Way,4601308,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-01-28 05:44:00,QUEENS,11373,40.736076,-73.87663,0,0,Driver Inattention/Distraction,4601230,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,False
+2023-01-28 08:40:00,QUEENS,11101,40.741936,-73.95441,0,0,Backing Unsafely,4601362,Flat Rack,Moving Violation,Winter,Morning,True
+2023-01-28 12:48:00,BROOKLYN,11236,40.646244,-73.904564,0,0,Passing or Lane Usage Improper,4601538,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-28 13:36:00,QUEENS,11373,40.735752,-73.88052,1,0,Driver Inattention/Distraction,4601233,E-Bike,Driver Inattention,Winter,Afternoon,False
+2023-01-28 13:45:00,BROOKLYN,11236,40.646263,-73.90457,0,0,Unsafe Lane Changing,4601158,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-28 14:00:00,BROOKLYN,11207,40.67816,-73.897484,0,0,Driver Inattention/Distraction,4602048,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-28 14:04:00,QUEENS,11101,40.74473,-73.93359,1,0,Driver Inattention/Distraction,4601836,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-01-28 15:00:00,BROOKLYN,11201,40.69299,-73.987274,0,0,Failure to Yield Right-of-Way,4601407,Bike,Moving Violation,Winter,Afternoon,False
+2023-01-28 18:01:00,QUEENS,11373,40.74238,-73.88189,1,0,Driver Inattention/Distraction,4610700,Bike,Driver Inattention,Winter,Evening,True
+2023-01-28 18:30:00,BROOKLYN,11206,40.702675,-73.93396,1,0,Failure to Yield Right-of-Way,4601353,Sedan,Moving Violation,Winter,Evening,True
+2023-01-28 19:00:00,QUEENS,11385,40.71032,-73.89937,1,0,Following Too Closely,4601731,Sedan,Moving Violation,Winter,Evening,True
+2023-01-28 23:18:00,BROOKLYN,11234,40.63413,-73.928505,0,0,Unsafe Lane Changing,4602063,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-29 00:35:00,BROOKLYN,11207,40.665993,-73.8858,2,0,Unsafe Speed,4601456,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-01-29 00:40:00,BROOKLYN,11206,40.703373,-73.93764,0,0,Reaction to Uninvolved Vehicle,4601608,Sedan,Driver Inattention,Winter,Late Night,False
+2023-01-29 01:15:00,QUEENS,11101,40.748913,-73.9374,1,0,Failure to Yield Right-of-Way,4601366,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-01-29 01:40:00,BROOKLYN,11211,40.714066,-73.94938,0,0,Passing Too Closely,4601908,Sedan,Moving Violation,Winter,Late Night,False
+2023-01-29 03:00:00,QUEENS,11101,40.753468,-73.91355,0,0,Aggressive Driving/Road Rage,4602547,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-01-29 04:00:00,BROOKLYN,11211,40.71337,-73.934814,0,0,Failure to Yield Right-of-Way,4601609,Sedan,Moving Violation,Winter,Early Morning,False
+2023-01-29 04:39:00,QUEENS,11368,40.757145,-73.86454,1,0,Driver Inattention/Distraction,4605518,Taxi,Driver Inattention,Winter,Early Morning,False
+2023-01-29 04:51:00,QUEENS,11373,40.73821,-73.866486,0,0,Driver Inattention/Distraction,4603150,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-01-29 05:00:00,QUEENS,11385,40.698677,-73.89977,0,0,Driver Inattention/Distraction,4601735,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,False
+2023-01-29 08:50:00,QUEENS,11101,40.75199,-73.931274,1,0,Failure to Yield Right-of-Way,4601489,Sedan,Moving Violation,Winter,Morning,True
+2023-01-29 12:20:00,QUEENS,11101,40.741028,-73.93432,0,0,Driver Inattention/Distraction,4601368,Taxi,Driver Inattention,Winter,Afternoon,False
+2023-01-29 15:16:00,QUEENS,11101,40.752403,-73.92442,1,0,Following Too Closely,4602546,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-29 15:57:00,BROOKLYN,11236,40.629417,-73.89649,2,0,Traffic Control Disregarded,4601539,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-29 16:14:00,BROOKLYN,11234,40.61487,-73.940796,0,0,Traffic Control Disregarded,4601403,Sedan,Moving Violation,Winter,Evening,True
+2023-01-29 17:09:00,QUEENS,11373,40.73831,-73.88548,0,0,Turning Improperly,4601916,Sedan,Moving Violation,Winter,Evening,True
+2023-01-29 20:17:00,QUEENS,11373,40.744057,-73.88348,0,0,Driver Inattention/Distraction,4601910,Sedan,Driver Inattention,Winter,Night,False
+2023-01-29 20:38:00,BROOKLYN,11207,40.679688,-73.89255,0,0,Driver Inattention/Distraction,4602043,Sedan,Driver Inattention,Winter,Night,False
+2023-01-29 20:50:00,BROOKLYN,11236,40.641407,-73.91229,0,0,Driver Inattention/Distraction,4601723,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-29 23:00:00,BROOKLYN,11201,40.69595,-73.9824,0,0,Driver Inattention/Distraction,4601524,Sedan,Driver Inattention,Winter,Night,False
+2023-01-30 10:30:00,BROOKLYN,11207,40.67175,-73.89685,1,0,Following Too Closely,4602060,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-30 11:40:00,QUEENS,11385,40.707794,-73.87326,0,0,Passing or Lane Usage Improper,4603275,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-30 12:01:00,QUEENS,11385,40.713333,-73.91305,0,0,Following Too Closely,4603274,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-30 14:20:00,BROOKLYN,11206,40.700058,-73.93279,0,0,Passing Too Closely,4602015,Sedan,Moving Violation,Winter,Afternoon,False
+2023-01-30 14:31:00,BROOKLYN,11206,40.70025,-73.93774,0,0,Passing Too Closely,4601886,Bus,Moving Violation,Winter,Afternoon,False
+2023-01-30 16:24:00,BROOKLYN,11201,40.692123,-73.98904,0,0,Passing or Lane Usage Improper,4605547,Pick-up Truck,Moving Violation,Winter,Evening,True
+2023-01-30 16:40:00,QUEENS,11385,40.711903,-73.90019,0,0,Aggressive Driving/Road Rage,4603693,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-30 17:48:00,BROOKLYN,11206,40.704624,-73.93503,0,0,Driver Inattention/Distraction,4602696,Box Truck,Driver Inattention,Winter,Evening,True
+2023-01-30 21:40:00,BROOKLYN,11207,40.675735,-73.89686,1,0,Driver Inattention/Distraction,4602058,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-01-30 22:20:00,QUEENS,11385,40.699585,-73.902245,1,0,Traffic Control Disregarded,4603689,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-01-31 07:56:00,BROOKLYN,11234,40.620064,-73.93791,0,0,Driver Inattention/Distraction,4602532,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-01-31 08:30:00,BROOKLYN,11206,40.705254,-73.93944,1,0,Driver Inattention/Distraction,4602248,Sedan,Driver Inattention,Winter,Morning,True
+2023-01-31 09:34:00,QUEENS,11368,40.738373,-73.86008,0,0,Backing Unsafely,4602159,Sedan,Moving Violation,Winter,Morning,False
+2023-01-31 10:30:00,BROOKLYN,11201,40.702927,-73.984665,0,0,Passing or Lane Usage Improper,4602660,Flat Bed,Moving Violation,Winter,Morning,False
+2023-01-31 10:40:00,BROOKLYN,11206,40.71143,-73.94216,0,0,Driver Inattention/Distraction,4602249,Box Truck,Driver Inattention,Winter,Morning,False
+2023-01-31 11:04:00,BROOKLYN,11234,40.62124,-73.929085,0,0,Failure to Yield Right-of-Way,4602535,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-01-31 11:20:00,BROOKLYN,11201,40.689865,-73.995674,0,0,Driver Inattention/Distraction,4602001,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-01-31 12:30:00,BROOKLYN,11211,40.70654,-73.95041,0,0,Passing Too Closely,4602235,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-31 12:48:00,BROOKLYN,11234,40.617382,-73.93114,0,0,Following Too Closely,4602065,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-01-31 13:00:00,BROOKLYN,11211,40.71148,-73.9456,0,0,Driver Inattention/Distraction,4602602,Ambulance,Driver Inattention,Winter,Afternoon,False
+2023-01-31 13:00:00,BROOKLYN,11201,40.690544,-73.995445,0,0,Failure to Yield Right-of-Way,4602675,AMBULANCE,Moving Violation,Winter,Afternoon,False
+2023-01-31 13:00:00,BROOKLYN,11201,40.69613,-73.987114,0,0,Driver Inattention/Distraction,4602066,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-31 13:02:00,BROOKLYN,11236,40.642616,-73.91734,0,0,Driver Inattention/Distraction,4602435,Bus,Driver Inattention,Winter,Afternoon,False
+2023-01-31 15:00:00,BROOKLYN,11206,40.71107,-73.93763,0,0,Driver Inattention/Distraction,4602817,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-01-31 16:05:00,BROOKLYN,11201,40.692497,-73.98896,0,0,Driver Inattention/Distraction,4602091,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-31 16:30:00,QUEENS,11101,40.751972,-73.93197,1,0,Traffic Control Disregarded,4602163,E-Scooter,Moving Violation,Winter,Evening,True
+2023-01-31 17:40:00,BROOKLYN,11206,40.701077,-73.94043,1,0,Driver Inattention/Distraction,4602937,E-Bike,Driver Inattention,Winter,Evening,True
+2023-01-31 18:14:00,BROOKLYN,11207,40.656673,-73.89678,0,0,Backing Unsafely,4602356,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-01-31 18:50:00,BROOKLYN,11236,40.634552,-73.91477,0,0,Driver Inattention/Distraction,4602391,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-01-31 19:11:00,QUEENS,11373,40.743973,-73.8851,0,0,Driver Inattention/Distraction,4602154,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,False
+2023-01-31 19:15:00,BROOKLYN,11206,40.700726,-73.94194,0,0,Driver Inattention/Distraction,4602252,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,False
+2023-01-31 20:00:00,BROOKLYN,11206,40.700718,-73.929794,0,0,Driver Inexperience,4602173,Sedan,Driver Inattention,Winter,Night,False
+2023-01-31 22:13:00,QUEENS,11373,40.733498,-73.87038,0,0,Driver Inattention/Distraction,4602156,Convertible,Driver Inattention,Winter,Night,False
+2023-02-01 07:15:00,BROOKLYN,11234,40.634483,-73.91886,0,0,Driver Inattention/Distraction,4603169,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-02-01 07:30:00,BROOKLYN,11236,40.637993,-73.917366,0,0,Passing or Lane Usage Improper,4602293,Sedan,Moving Violation,Winter,Early Morning,True
+2023-02-01 08:20:00,BROOKLYN,11207,40.679607,-73.89303,1,0,Driver Inattention/Distraction,4602458,Sedan,Driver Inattention,Winter,Morning,True
+2023-02-01 12:44:00,BROOKLYN,11236,40.647686,-73.90237,0,0,Passing or Lane Usage Improper,4602611,Street Swe,Moving Violation,Winter,Afternoon,False
+2023-02-01 13:20:00,BROOKLYN,11211,40.716698,-73.943054,1,0,Driver Inattention/Distraction,4604256,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-01 13:40:00,QUEENS,11368,40.743935,-73.85749,1,0,Failure to Yield Right-of-Way,4602500,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-01 13:47:00,BROOKLYN,11207,40.65768,-73.887794,2,0,Unsafe Speed,4604296,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-01 13:55:00,QUEENS,11368,40.749374,-73.86752,1,0,Failure to Yield Right-of-Way,4604177,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-01 15:36:00,BROOKLYN,11236,40.645397,-73.893585,0,0,Passing or Lane Usage Improper,4602382,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-01 16:36:00,BROOKLYN,11207,40.657787,-73.895966,1,0,Driver Inattention/Distraction,4602461,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-01 17:30:00,BROOKLYN,11207,40.65342,-73.88898,0,0,Backing Unsafely,4602462,Sedan,Moving Violation,Winter,Evening,True
+2023-02-01 18:50:00,BROOKLYN,11206,40.701912,-73.93699,1,0,Driver Inattention/Distraction,4606804,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-01 22:00:00,BROOKLYN,11206,40.700527,-73.94161,0,0,Backing Unsafely,4602597,Sedan,Moving Violation,Winter,Night,False
+2023-02-01 22:55:00,BROOKLYN,11211,40.707973,-73.9566,0,0,Driver Inattention/Distraction,4602608,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-02-01 23:50:00,QUEENS,11368,40.74579,-73.85622,0,0,Driver Inattention/Distraction,4602504,Sedan,Driver Inattention,Winter,Night,False
+2023-02-02 00:00:00,QUEENS,11368,40.756287,-73.860725,2,0,Driver Inattention/Distraction,4603217,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-02 04:35:00,BROOKLYN,11207,40.655563,-73.87974,0,0,Driver Inattention/Distraction,4604308,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-02-02 06:10:00,BROOKLYN,11211,40.71337,-73.934814,1,0,Traffic Control Disregarded,4604612,E-Bike,Moving Violation,Winter,Early Morning,True
+2023-02-02 07:45:00,QUEENS,11385,40.701057,-73.886,0,0,Passing Too Closely,4603699,Sedan,Moving Violation,Winter,Early Morning,True
+2023-02-02 08:25:00,QUEENS,11368,40.757774,-73.86255,2,0,Driver Inattention/Distraction,4603216,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,True
+2023-02-02 08:52:00,BROOKLYN,11201,40.692154,-73.98529,1,0,Failure to Yield Right-of-Way,4602679,SCHOOL BUS,Moving Violation,Winter,Morning,True
+2023-02-02 11:37:00,BROOKLYN,11234,40.61304,-73.92621,2,0,Following Too Closely,4602849,Sedan,Moving Violation,Winter,Morning,False
+2023-02-02 12:10:00,QUEENS,11101,40.74473,-73.93359,1,0,Driver Inattention/Distraction,4603382,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-02 12:17:00,BROOKLYN,11207,40.658577,-73.89063,3,0,Failure to Yield Right-of-Way,4604287,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-02 12:44:00,BROOKLYN,11201,40.689453,-73.984535,0,0,Passing Too Closely,4602662,Bus,Moving Violation,Winter,Afternoon,False
+2023-02-02 15:12:00,BROOKLYN,11211,40.712925,-73.93662,1,0,Failure to Yield Right-of-Way,4602861,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-02 15:30:00,BROOKLYN,11234,40.62374,-73.92448,1,0,Driver Inattention/Distraction,4603018,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-02 16:00:00,BROOKLYN,11234,40.618484,-73.913506,1,0,Traffic Control Disregarded,4603162,Sedan,Moving Violation,Winter,Evening,True
+2023-02-02 17:27:00,BROOKLYN,11234,40.632065,-73.91861,0,0,Driver Inattention/Distraction,4603017,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-02 17:50:00,BROOKLYN,11234,40.616047,-73.93464,0,0,Driver Inattention/Distraction,4603165,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-02 18:37:00,QUEENS,11368,40.754776,-73.85376,0,0,Driver Inattention/Distraction,4603214,Taxi,Driver Inattention,Winter,Evening,True
+2023-02-02 19:30:00,BROOKLYN,11211,40.7084,-73.95549,0,0,Driver Inattention/Distraction,4606139,Sedan,Driver Inattention,Winter,Evening,False
+2023-02-03 00:38:00,QUEENS,11373,40.741295,-73.88029,0,0,Following Too Closely,4602725,4 dr sedan,Moving Violation,Winter,Late Night,False
+2023-02-03 06:50:00,BROOKLYN,11207,40.673714,-73.892456,0,0,Driver Inattention/Distraction,4604301,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-02-03 07:54:00,QUEENS,11385,40.713013,-73.90802,0,0,Turning Improperly,4603692,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-02-03 11:43:00,BROOKLYN,11234,40.630688,-73.92521,1,0,Traffic Control Disregarded,4603163,Sedan,Moving Violation,Winter,Morning,False
+2023-02-03 12:10:00,BROOKLYN,11211,40.70421,-73.96123,1,0,Passing Too Closely,4602954,Bus,Moving Violation,Winter,Afternoon,False
+2023-02-03 13:00:00,BROOKLYN,11236,40.631454,-73.89029,0,0,Following Too Closely,4603212,Taxi,Moving Violation,Winter,Afternoon,False
+2023-02-03 14:05:00,QUEENS,11385,40.704594,-73.90826,1,0,Unsafe Speed,4603286,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-03 15:00:00,QUEENS,11101,40.738995,-73.93474,0,0,Driver Inattention/Distraction,4602868,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-03 16:26:00,BROOKLYN,11234,40.6224,-73.936646,0,0,Driver Inattention/Distraction,4603166,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-03 17:00:00,QUEENS,11101,40.738155,-73.940605,0,0,Driver Inattention/Distraction,4602973,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-03 18:36:00,QUEENS,11368,40.748066,-73.8574,1,0,Driver Inattention/Distraction,4603964,E-Bike,Driver Inattention,Winter,Evening,True
+2023-02-03 19:30:00,QUEENS,11373,40.74519,-73.8695,0,0,Backing Unsafely,4604538,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,False
+2023-02-03 22:00:00,QUEENS,11385,40.691433,-73.89063,0,0,Following Too Closely,4603288,Sedan,Moving Violation,Winter,Night,False
+2023-02-03 23:51:00,BROOKLYN,11206,40.695377,-73.94921,1,0,Unsafe Speed,4604365,Sedan,Moving Violation,Winter,Night,False
+2023-02-04 02:50:00,BROOKLYN,11211,40.71728,-73.95833,0,0,Driver Inattention/Distraction,4604440,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-04 03:52:00,BROOKLYN,11211,40.70769,-73.95586,1,0,Unsafe Speed,4608588,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-02-04 04:00:00,BROOKLYN,11206,40.7056,-73.937584,0,0,Driver Inattention/Distraction,4602981,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,False
+2023-02-04 04:40:00,BROOKLYN,11211,40.71432,-73.94668,0,0,Driver Inattention/Distraction,4604448,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-02-04 07:34:00,BROOKLYN,11236,40.638577,-73.90414,2,0,Driver Inattention/Distraction,4602918,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-02-04 08:00:00,BROOKLYN,11236,40.655685,-73.899414,1,0,Following Too Closely,4602919,Sedan,Moving Violation,Winter,Morning,True
+2023-02-04 08:45:00,QUEENS,11385,40.694378,-73.899284,0,0,Passing Too Closely,4606775,Sedan,Moving Violation,Winter,Morning,True
+2023-02-04 09:07:00,BROOKLYN,11207,40.66278,-73.88086,0,0,Driver Inattention/Distraction,4604294,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-04 11:52:00,QUEENS,11385,40.709194,-73.86496,0,0,Passing Too Closely,4605141,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-04 12:25:00,QUEENS,11101,40.748913,-73.9374,0,0,Traffic Control Disregarded,4602976,Tractor Truck Gasoline,Moving Violation,Winter,Afternoon,False
+2023-02-04 14:29:00,BROOKLYN,11234,40.635185,-73.92862,1,0,Driver Inattention/Distraction,4604868,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-04 14:30:00,BROOKLYN,11234,40.61146,-73.92437,1,0,Traffic Control Disregarded,4603172,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-04 17:19:00,BROOKLYN,11236,40.638813,-73.90818,0,0,Unsafe Speed,4603032,Sedan,Moving Violation,Winter,Evening,True
+2023-02-04 17:51:00,BROOKLYN,11207,40.68014,-73.88941,1,0,Driver Inattention/Distraction,4604317,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-04 17:58:00,BROOKLYN,11207,40.688316,-73.908,1,0,Failure to Yield Right-of-Way,4603616,Sedan,Moving Violation,Winter,Evening,True
+2023-02-04 22:00:00,BROOKLYN,11234,40.617065,-73.9157,0,0,Driver Inattention/Distraction,4603168,Sedan,Driver Inattention,Winter,Night,False
+2023-02-05 00:40:00,QUEENS,11373,40.74432,-73.88593,0,0,Driver Inattention/Distraction,4604463,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-05 01:29:00,QUEENS,11101,40.742874,-73.933945,0,0,Driver Inattention/Distraction,4603383,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-05 03:50:00,QUEENS,11101,40.744667,-73.931694,2,0,Driver Inattention/Distraction,4603055,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-05 11:43:00,BROOKLYN,11236,40.640285,-73.91938,1,0,Driver Inattention/Distraction,4603422,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-05 14:00:00,BROOKLYN,11207,40.658577,-73.89063,3,0,Turning Improperly,4604318,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-05 16:40:00,BROOKLYN,11234,40.61448,-73.92641,0,0,Following Too Closely,4604879,Sedan,Moving Violation,Winter,Evening,True
+2023-02-05 17:12:00,QUEENS,11385,40.700474,-73.88344,1,0,Passing Too Closely,4605149,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-05 18:56:00,QUEENS,11373,40.733906,-73.87178,0,0,Driver Inattention/Distraction,4603432,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-05 20:20:00,QUEENS,11368,40.75337,-73.85302,2,0,Driver Inattention/Distraction,4603540,Sedan,Driver Inattention,Winter,Night,False
+2023-02-05 20:24:00,QUEENS,11368,40.751575,-73.85584,0,1,Driver Inattention/Distraction,4603304,PK,Driver Inattention,Winter,Night,False
+2023-02-05 20:30:00,QUEENS,11368,40.74961,-73.86969,0,0,Driver Inattention/Distraction,4604356,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-02-05 20:39:00,BROOKLYN,11206,40.701912,-73.93699,1,0,Driver Inattention/Distraction,4603618,Sedan,Driver Inattention,Winter,Night,False
+2023-02-05 20:56:00,QUEENS,11101,40.745068,-73.93826,1,0,Driver Inattention/Distraction,4603377,Dump,Driver Inattention,Winter,Night,False
+2023-02-05 22:39:00,BROOKLYN,11211,40.716805,-73.9546,1,0,Failure to Yield Right-of-Way,4603601,Sedan,Moving Violation,Winter,Night,False
+2023-02-06 00:35:00,BROOKLYN,11207,40.658577,-73.89063,3,0,Driver Inattention/Distraction,4604326,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-06 04:00:00,QUEENS,11101,40.753227,-73.94672,0,0,Unsafe Speed,4603727,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-02-06 06:00:00,QUEENS,11101,40.747925,-73.940094,0,0,Driver Inexperience,4603546,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-02-06 08:26:00,BROOKLYN,11207,40.652767,-73.8863,0,0,Following Too Closely,4604343,Pick-up Truck,Moving Violation,Winter,Morning,True
+2023-02-06 09:15:00,BROOKLYN,11234,40.61146,-73.92437,0,0,Failure to Yield Right-of-Way,4604875,Sedan,Moving Violation,Winter,Morning,False
+2023-02-06 09:16:00,BROOKLYN,11207,40.685795,-73.911644,0,0,Driver Inattention/Distraction,4604729,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-06 09:21:00,BROOKLYN,11211,40.7138,-73.93319,1,0,Backing Unsafely,4603571,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-06 09:30:00,BROOKLYN,11211,40.71059,-73.95474,0,0,Following Too Closely,4606543,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-06 10:33:00,BROOKLYN,11236,40.63672,-73.89296,0,0,Driver Inattention/Distraction,4603517,Pick-up Truck,Driver Inattention,Winter,Morning,False
+2023-02-06 12:00:00,QUEENS,11101,40.74667,-73.947845,1,0,Failure to Yield Right-of-Way,4604187,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-06 12:10:00,QUEENS,11368,40.734863,-73.862656,1,0,Driver Inattention/Distraction,4604444,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-06 17:50:00,QUEENS,11368,40.749596,-73.8654,0,0,Driver Inattention/Distraction,4608505,Pick-up Truck,Driver Inattention,Winter,Evening,True
+2023-02-06 17:50:00,BROOKLYN,11206,40.706596,-73.94309,0,0,Driver Inattention/Distraction,4606142,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-06 17:54:00,QUEENS,11101,40.745174,-73.9554,0,0,Driver Inattention/Distraction,4603542,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-06 18:00:00,QUEENS,11373,40.734657,-73.86482,0,0,Driver Inattention/Distraction,4603609,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-06 18:50:00,BROOKLYN,11234,40.621643,-73.9389,2,0,Passing Too Closely,4604869,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-06 21:58:00,BROOKLYN,11236,40.633682,-73.89868,2,0,Traffic Control Disregarded,4603635,Sedan,Moving Violation,Winter,Night,False
+2023-02-06 22:40:00,BROOKLYN,11211,40.71135,-73.96143,1,0,Driver Inattention/Distraction,4604159,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-02-07 03:00:00,BROOKLYN,11206,40.707596,-73.94831,0,0,Driver Inattention/Distraction,4603722,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-07 05:32:00,BROOKLYN,11236,40.63693,-73.91109,1,0,Driver Inattention/Distraction,4603718,Bus,Driver Inattention,Winter,Early Morning,False
+2023-02-07 06:55:00,BROOKLYN,11236,40.643387,-73.90899,1,0,Backing Unsafely,4604172,Sedan,Moving Violation,Winter,Early Morning,True
+2023-02-07 07:20:00,BROOKLYN,11207,40.67627,-73.89701,0,0,Unsafe Speed,4604327,Sedan,Moving Violation,Winter,Early Morning,True
+2023-02-07 07:27:00,BROOKLYN,11207,40.659702,-73.8786,1,0,Failure to Yield Right-of-Way,4604328,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-02-07 09:58:00,BROOKLYN,11234,40.624226,-73.92744,2,0,Driver Inattention/Distraction,4604857,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-07 10:30:00,BROOKLYN,11211,40.7059,-73.963104,0,0,Backing Unsafely,4604140,Sedan,Moving Violation,Winter,Morning,False
+2023-02-07 11:00:00,QUEENS,11101,40.73518,-73.93577,0,0,Driver Inattention/Distraction,4603813,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-07 13:25:00,BROOKLYN,11206,40.70175,-73.94115,0,0,Passing Too Closely,4608567,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-07 13:30:00,BROOKLYN,11206,40.70129,-73.95225,0,0,Driver Inattention/Distraction,4604160,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-07 14:39:00,BROOKLYN,11201,40.698246,-73.98055,0,0,Following Too Closely,4603946,Pick-up Truck,Moving Violation,Winter,Afternoon,False
+2023-02-07 15:22:00,QUEENS,11373,40.74184,-73.88101,0,0,Driver Inattention/Distraction,4603846,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-07 16:00:00,BROOKLYN,11234,40.61605,-73.924614,0,0,Driver Inattention/Distraction,4604885,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-07 17:34:00,BROOKLYN,11234,40.63413,-73.928505,1,0,Driver Inattention/Distraction,4604861,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-07 17:42:00,BROOKLYN,11201,40.69631,-73.997086,0,0,Backing Unsafely,4604098,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-07 18:00:00,QUEENS,11101,40.751198,-73.93441,0,0,Driver Inexperience,4603923,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-07 19:01:00,QUEENS,11101,40.740376,-73.94955,0,0,Driver Inattention/Distraction,4604143,Sedan,Driver Inattention,Winter,Evening,False
+2023-02-07 20:00:00,BROOKLYN,11201,40.69731,-73.98231,0,0,Passing or Lane Usage Improper,4604091,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-07 20:10:00,BROOKLYN,11207,40.658577,-73.89063,0,0,Passing or Lane Usage Improper,4604330,Sedan,Moving Violation,Winter,Night,False
+2023-02-07 23:20:00,BROOKLYN,11207,40.668816,-73.89895,1,0,Driver Inattention/Distraction,4603837,Sedan,Driver Inattention,Winter,Night,False
+2023-02-08 02:23:00,BROOKLYN,11206,40.70138,-73.9551,1,0,Driver Inattention/Distraction,4604407,Bike,Driver Inattention,Winter,Late Night,False
+2023-02-08 06:19:00,BROOKLYN,11211,40.70442,-73.956436,0,0,Driver Inattention/Distraction,4604161,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-02-08 07:16:00,BROOKLYN,11236,40.648434,-73.89328,0,0,Driver Inattention/Distraction,4606441,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-02-08 08:00:00,QUEENS,11385,40.698013,-73.887886,0,0,Following Too Closely,4604269,Sedan,Moving Violation,Winter,Morning,True
+2023-02-08 08:20:00,BROOKLYN,11206,40.703854,-73.95128,1,0,Driver Inattention/Distraction,4604162,Sedan,Driver Inattention,Winter,Morning,True
+2023-02-08 12:31:00,BROOKLYN,11207,40.661385,-73.8841,3,0,Driver Inattention/Distraction,4608810,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-08 13:00:00,BROOKLYN,11211,40.710785,-73.95995,0,0,Driver Inattention/Distraction,4605172,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-08 15:30:00,BROOKLYN,11211,40.711422,-73.95954,0,0,Driver Inattention/Distraction,4605163,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-08 15:31:00,BROOKLYN,11234,40.60553,-73.92917,1,0,Failure to Yield Right-of-Way,4604866,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-08 15:37:00,BROOKLYN,11234,40.62861,-73.91578,1,0,Failure to Yield Right-of-Way,4605443,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-08 15:49:00,BROOKLYN,11211,40.714066,-73.95163,0,0,Failure to Yield Right-of-Way,4604640,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-08 16:00:00,QUEENS,11373,40.74571,-73.87028,0,0,Driver Inattention/Distraction,4604149,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-08 16:15:00,BROOKLYN,11206,40.702984,-73.94586,0,0,Failure to Yield Right-of-Way,4604165,Sedan,Moving Violation,Winter,Evening,True
+2023-02-08 16:24:00,BROOKLYN,11234,40.633026,-73.92546,1,0,Driver Inattention/Distraction,4604621,Pick-up Truck,Driver Inattention,Winter,Evening,True
+2023-02-08 17:57:00,BROOKLYN,11234,40.62788,-73.93251,1,0,Traffic Control Disregarded,4604864,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-08 18:25:00,QUEENS,11368,40.757725,-73.86372,0,0,Passing Too Closely,4604508,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-08 20:20:00,BROOKLYN,11201,40.696198,-73.98877,0,0,Driver Inattention/Distraction,4604619,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-02-08 22:00:00,BROOKLYN,11207,40.665874,-73.89724,0,0,Driver Inattention/Distraction,4604333,Sedan,Driver Inattention,Winter,Night,False
+2023-02-08 22:15:00,BROOKLYN,11207,40.66932,-73.88481,0,0,Driver Inattention/Distraction,4604135,Sedan,Driver Inattention,Winter,Night,False
+2023-02-09 00:00:00,BROOKLYN,11211,40.70572,-73.953354,1,0,Driver Inattention/Distraction,4605617,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-09 04:15:00,QUEENS,11101,40.756042,-73.93676,0,0,Passing Too Closely,4605004,Pick-up Truck,Moving Violation,Winter,Early Morning,False
+2023-02-09 06:15:00,QUEENS,11385,40.71109,-73.90874,0,0,Passing Too Closely,4605089,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-02-09 08:06:00,BROOKLYN,11234,40.635365,-73.92571,0,0,Driver Inattention/Distraction,4604858,Sedan,Driver Inattention,Winter,Morning,True
+2023-02-09 09:00:00,BROOKLYN,11207,40.658596,-73.89728,0,0,Driver Inattention/Distraction,4604581,Sedan,Driver Inattention,Winter,Morning,True
+2023-02-09 11:10:00,BROOKLYN,11207,40.680405,-73.88764,0,0,Failure to Yield Right-of-Way,4604322,Sedan,Moving Violation,Winter,Morning,False
+2023-02-09 11:25:00,QUEENS,11101,40.73687,-73.928505,0,0,Following Too Closely,4606031,Pick-up Truck,Moving Violation,Winter,Morning,False
+2023-02-09 12:23:00,QUEENS,11101,40.743195,-73.93673,0,0,Following Too Closely,4605487,Box Truck,Moving Violation,Winter,Afternoon,False
+2023-02-09 15:48:00,BROOKLYN,11234,40.61697,-73.93321,1,0,Traffic Control Disregarded,4604877,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-09 16:25:00,BROOKLYN,11206,40.70951,-73.95088,1,0,Failure to Yield Right-of-Way,4606143,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-09 18:09:00,QUEENS,11373,40.745304,-73.89019,1,0,Driver Inattention/Distraction,4604540,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-09 18:50:00,BROOKLYN,11206,40.702118,-73.95397,0,0,Driver Inexperience,4606147,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-09 19:40:00,BROOKLYN,11236,40.640373,-73.9048,0,0,Backing Unsafely,4604435,Sedan,Moving Violation,Winter,Evening,False
+2023-02-09 22:45:00,QUEENS,11373,40.73979,-73.87836,0,0,Driver Inattention/Distraction,4604447,Sedan,Driver Inattention,Winter,Night,False
+2023-02-09 23:34:00,BROOKLYN,11236,40.63622,-73.90779,2,0,Traffic Control Disregarded,4604434,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-10 05:08:00,QUEENS,11385,40.70399,-73.90971,0,0,Passing Too Closely,4605147,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-02-10 06:00:00,QUEENS,11101,40.746033,-73.93441,1,0,Failure to Yield Right-of-Way,4604678,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-02-10 10:25:00,BROOKLYN,11207,40.663685,-73.89858,0,0,Passing Too Closely,4604579,Sedan,Moving Violation,Winter,Morning,False
+2023-02-10 11:00:00,BROOKLYN,11234,40.632065,-73.91861,2,0,Following Too Closely,4605125,Sedan,Moving Violation,Winter,Morning,False
+2023-02-10 13:00:00,BROOKLYN,11207,40.685226,-73.91454,0,0,Passing Too Closely,4604934,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-10 14:15:00,BROOKLYN,11201,40.68978,-73.98139,0,0,Unsafe Lane Changing,4605802,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-10 15:00:00,BROOKLYN,11201,40.692234,-73.987305,0,0,Reaction to Uninvolved Vehicle,4604587,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-10 16:20:00,BROOKLYN,11211,40.70774,-73.95361,1,0,Driver Inattention/Distraction,4604644,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-10 17:00:00,BROOKLYN,11207,40.67007,-73.89927,1,0,Driver Inattention/Distraction,4605244,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-10 17:10:00,QUEENS,11373,40.733368,-73.87645,1,0,Failure to Yield Right-of-Way,4610705,Sedan,Moving Violation,Winter,Evening,True
+2023-02-10 18:35:00,BROOKLYN,11211,40.713898,-73.961685,1,0,Failure to Yield Right-of-Way,4604645,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-10 20:23:00,BROOKLYN,11201,40.688904,-73.980934,1,0,Driver Inexperience,4605444,Taxi,Driver Inattention,Winter,Night,False
+2023-02-10 21:00:00,QUEENS,11373,40.737064,-73.87894,0,0,Driver Inattention/Distraction,4604629,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-02-10 21:30:00,BROOKLYN,11206,40.70544,-73.94799,0,0,Passing or Lane Usage Improper,4606152,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-10 21:50:00,BROOKLYN,11211,40.715477,-73.95604,0,0,Passing or Lane Usage Improper,4605057,Sedan,Moving Violation,Winter,Night,False
+2023-02-10 22:30:00,BROOKLYN,11211,40.71086,-73.95801,0,0,Backing Unsafely,4605944,Sedan,Moving Violation,Winter,Night,False
+2023-02-10 23:56:00,QUEENS,11368,40.756683,-73.85793,1,0,Unsafe Speed,4604959,Motorcycle,Moving Violation,Winter,Night,False
+2023-02-11 00:00:00,BROOKLYN,11234,40.60981,-73.92251,0,0,Following Too Closely,4604874,Pick-up Truck,Moving Violation,Winter,Late Night,False
+2023-02-11 04:25:00,BROOKLYN,11207,40.674397,-73.896515,0,0,Driver Inattention/Distraction,4605250,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-02-11 04:45:00,BROOKLYN,11236,40.638813,-73.90818,2,0,Driver Inattention/Distraction,4604662,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,False
+2023-02-11 07:44:00,BROOKLYN,11236,40.646626,-73.90399,1,0,Driver Inattention/Distraction,4606346,BOX CAR,Driver Inattention,Winter,Early Morning,True
+2023-02-11 10:40:00,QUEENS,11101,40.74473,-73.93359,0,0,Driver Inattention/Distraction,4605464,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-11 13:47:00,QUEENS,11385,40.697163,-73.90685,1,0,Failure to Yield Right-of-Way,4606217,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-11 16:18:00,BROOKLYN,11207,40.677628,-73.894394,0,0,Failure to Yield Right-of-Way,4605265,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-11 17:50:00,QUEENS,11101,40.745235,-73.937706,1,0,Driver Inattention/Distraction,4604704,Taxi,Driver Inattention,Winter,Evening,True
+2023-02-11 17:55:00,QUEENS,11385,40.7084,-73.89801,1,0,Failure to Yield Right-of-Way,4605102,Bike,Moving Violation,Winter,Evening,True
+2023-02-11 22:07:00,QUEENS,11368,40.74797,-73.86527,0,0,Driver Inattention/Distraction,4606857,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-02-12 02:40:00,QUEENS,11385,40.7018,-73.90514,0,0,Following Too Closely,4606214,Sedan,Moving Violation,Winter,Late Night,False
+2023-02-12 05:50:00,BROOKLYN,11201,40.696033,-73.984535,0,0,Driver Inattention/Distraction,4604785,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-02-12 06:15:00,BROOKLYN,11207,40.66901,-73.88695,0,0,Following Too Closely,4605256,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-02-12 10:20:00,QUEENS,11101,40.757732,-73.941246,0,0,Backing Unsafely,4608874,Sedan,Moving Violation,Winter,Morning,False
+2023-02-12 10:40:00,QUEENS,11101,40.75719,-73.93936,0,0,Driver Inattention/Distraction,4605007,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-12 11:00:00,QUEENS,11373,40.74847,-73.870026,0,0,Driver Inattention/Distraction,4604876,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-12 12:20:00,BROOKLYN,11236,40.638916,-73.91577,0,0,Following Too Closely,4604937,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-12 12:35:00,BROOKLYN,11206,40.7013,-73.93674,0,0,Backing Unsafely,4605660,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-12 14:30:00,QUEENS,11101,40.748913,-73.9374,0,0,Driver Inattention/Distraction,4605284,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-12 14:35:00,QUEENS,11373,40.73025,-73.88731,0,0,Turning Improperly,4605109,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-12 16:28:00,BROOKLYN,11206,40.70278,-73.946915,1,0,Driver Inattention/Distraction,4608600,E-Scooter,Driver Inattention,Winter,Evening,True
+2023-02-12 17:48:00,BROOKLYN,11207,40.66278,-73.88086,1,0,Turning Improperly,4605533,PICKUP,Moving Violation,Winter,Evening,True
+2023-02-12 23:40:00,BROOKLYN,11234,40.6224,-73.936646,0,0,Turning Improperly,4605274,Sedan,Moving Violation,Winter,Night,False
+2023-02-13 00:26:00,BROOKLYN,11236,40.649895,-73.90762,1,0,Unsafe Speed,4605114,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-02-13 04:25:00,QUEENS,11373,40.74427,-73.87137,1,0,Driver Inattention/Distraction,4605652,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,False
+2023-02-13 08:27:00,BROOKLYN,11234,40.623714,-73.91772,1,0,Failure to Yield Right-of-Way,4608018,Sedan,Moving Violation,Winter,Morning,True
+2023-02-13 08:39:00,BROOKLYN,11234,40.625683,-73.93344,1,0,Driver Inattention/Distraction,4605279,Bus,Driver Inattention,Winter,Morning,True
+2023-02-13 09:00:00,QUEENS,11101,40.74581,-73.94356,0,0,Driver Inattention/Distraction,4605281,Flat Bed,Driver Inattention,Winter,Morning,True
+2023-02-13 09:30:00,QUEENS,11368,40.7558,-73.86535,1,0,Backing Unsafely,4606129,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-13 09:47:00,BROOKLYN,11236,40.65375,-73.90166,0,0,Passing Too Closely,4605868,Pick-up Truck,Moving Violation,Winter,Morning,False
+2023-02-13 09:51:00,BROOKLYN,11234,40.6224,-73.936646,1,0,Driver Inattention/Distraction,4605276,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-13 11:12:00,BROOKLYN,11211,40.70336,-73.95656,1,0,Driver Inattention/Distraction,4605630,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-13 13:34:00,BROOKLYN,11236,40.645855,-73.90311,0,0,Unsafe Lane Changing,4605865,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-13 13:35:00,BROOKLYN,11234,40.619484,-73.918274,0,0,Traffic Control Disregarded,4605278,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-13 14:45:00,BROOKLYN,11206,40.708675,-73.93699,1,0,Turning Improperly,4605615,Box Truck,Moving Violation,Winter,Afternoon,False
+2023-02-13 15:14:00,BROOKLYN,11201,40.696033,-73.984535,3,0,Traffic Control Disregarded,4605280,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-13 15:39:00,BROOKLYN,11201,40.696033,-73.984535,0,0,Passing Too Closely,4605568,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-13 15:49:00,BROOKLYN,11201,40.687363,-73.99004,0,0,Following Too Closely,4605574,Carry All,Moving Violation,Winter,Afternoon,False
+2023-02-13 16:00:00,QUEENS,11373,40.734135,-73.86918,0,0,Driver Inattention/Distraction,4605370,Pick-up Truck,Driver Inattention,Winter,Evening,True
+2023-02-13 16:43:00,BROOKLYN,11207,40.675735,-73.89686,0,0,Driver Inattention/Distraction,4605531,Box Truck,Driver Inattention,Winter,Evening,True
+2023-02-13 18:26:00,BROOKLYN,11211,40.71337,-73.934814,0,0,Following Too Closely,4608598,Sedan,Moving Violation,Winter,Evening,True
+2023-02-13 20:25:00,BROOKLYN,11211,40.71197,-73.96104,0,0,Driver Inattention/Distraction,4605619,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Night,False
+2023-02-13 20:35:00,BROOKLYN,11234,40.623856,-73.92257,0,0,Failure to Yield Right-of-Way,4607047,Sedan,Moving Violation,Winter,Night,False
+2023-02-14 05:45:00,BROOKLYN,11201,40.68993,-73.98148,0,0,Driver Inattention/Distraction,4605572,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-02-14 06:45:00,QUEENS,11101,40.747665,-73.94506,0,0,Backing Unsafely,4606027,Pick-up Truck,Moving Violation,Winter,Early Morning,True
+2023-02-14 06:57:00,BROOKLYN,11236,40.64715,-73.90865,0,0,Unsafe Speed,4605482,Sedan,Moving Violation,Winter,Early Morning,True
+2023-02-14 07:34:00,BROOKLYN,11207,40.67811,-73.89762,0,0,Following Too Closely,4605526,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-02-14 08:10:00,BROOKLYN,11211,40.713345,-73.96017,1,0,Driver Inattention/Distraction,4605634,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,True
+2023-02-14 10:09:00,BROOKLYN,11201,40.690403,-73.98771,0,0,Passing or Lane Usage Improper,4606979,Sedan,Moving Violation,Winter,Morning,False
+2023-02-14 12:00:00,BROOKLYN,11211,40.719246,-73.95407,0,0,Driver Inattention/Distraction,4606773,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-14 14:15:00,BROOKLYN,11211,40.711452,-73.95122,0,0,Driver Inattention/Distraction,4605942,Ambulance,Driver Inattention,Winter,Afternoon,False
+2023-02-14 15:25:00,QUEENS,11101,40.748543,-73.93841,0,0,Driver Inattention/Distraction,4605603,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-14 16:30:00,BROOKLYN,11201,40.68987,-73.988304,0,0,Turning Improperly,4605569,Flat Bed,Moving Violation,Winter,Evening,True
+2023-02-14 16:37:00,BROOKLYN,11234,40.60981,-73.92251,0,0,Following Too Closely,4606503,Sedan,Moving Violation,Winter,Evening,True
+2023-02-14 17:35:00,QUEENS,11385,40.71315,-73.910225,2,0,Failure to Yield Right-of-Way,4606109,Sedan,Moving Violation,Winter,Evening,True
+2023-02-14 18:20:00,QUEENS,11385,40.71062,-73.909225,2,0,Traffic Control Disregarded,4605978,Sedan,Moving Violation,Winter,Evening,True
+2023-02-14 19:00:00,BROOKLYN,11236,40.643936,-73.912636,0,0,Unsafe Speed,4605821,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-15 07:19:00,BROOKLYN,11207,40.66475,-73.89405,0,0,Following Too Closely,4605903,Bus,Moving Violation,Winter,Early Morning,True
+2023-02-15 11:18:00,BROOKLYN,11236,40.63285,-73.89119,1,0,Driver Inexperience,4608141,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-15 12:52:00,QUEENS,11385,40.71115,-73.90028,0,0,Passing Too Closely,4605981,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-15 13:09:00,BROOKLYN,11201,40.700733,-73.996,2,0,Failure to Yield Right-of-Way,4605999,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-15 13:20:00,BROOKLYN,11211,40.711903,-73.94902,2,0,Driver Inattention/Distraction,4606052,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-15 14:45:00,QUEENS,11373,40.73694,-73.88657,2,0,Driver Inattention/Distraction,4606004,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-15 15:10:00,BROOKLYN,11211,40.714066,-73.95163,1,0,Turning Improperly,4606869,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-15 16:00:00,BROOKLYN,11207,40.67189,-73.895874,1,0,Driver Inattention/Distraction,4605910,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-15 17:20:00,QUEENS,11101,40.75703,-73.938126,2,0,Traffic Control Disregarded,4607461,Sedan,Moving Violation,Winter,Evening,True
+2023-02-15 17:30:00,QUEENS,11368,40.742104,-73.86571,0,0,Passing or Lane Usage Improper,4607966,Sedan,Moving Violation,Winter,Evening,True
+2023-02-15 18:00:00,QUEENS,11368,40.745205,-73.858765,0,0,Driver Inattention/Distraction,4606003,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-15 18:51:00,BROOKLYN,11236,40.646034,-73.91277,1,0,Failure to Yield Right-of-Way,4606127,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-15 21:00:00,QUEENS,11385,40.70501,-73.89516,0,0,Failure to Yield Right-of-Way,4606779,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-15 23:30:00,BROOKLYN,11206,40.710648,-73.93661,0,0,Passing Too Closely,4607789,Chassis Cab,Moving Violation,Winter,Night,False
+2023-02-15 23:50:00,BROOKLYN,11201,40.689796,-73.97752,0,0,Unsafe Speed,4607527,Sedan,Moving Violation,Winter,Night,False
+2023-02-16 00:00:00,BROOKLYN,11234,40.61448,-73.92641,1,0,Driver Inattention/Distraction,4606134,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-16 00:30:00,QUEENS,11368,40.75043,-73.86301,1,0,Driver Inattention/Distraction,4606092,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-16 00:35:00,BROOKLYN,11234,40.61475,-73.93444,0,0,Unsafe Speed,4607042,Sedan,Moving Violation,Winter,Late Night,False
+2023-02-16 02:05:00,BROOKLYN,11234,40.625088,-73.92174,0,0,Driver Inattention/Distraction,4607050,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-16 03:35:00,BROOKLYN,11207,40.667904,-73.883606,0,0,Driver Inattention/Distraction,4606078,Taxi,Driver Inattention,Winter,Late Night,False
+2023-02-16 04:30:00,QUEENS,11368,40.755325,-73.866165,0,0,Following Too Closely,4607504,Sedan,Moving Violation,Winter,Early Morning,False
+2023-02-16 06:30:00,QUEENS,11385,40.702454,-73.874466,0,0,Failure to Yield Right-of-Way,4606110,Sedan,Moving Violation,Winter,Early Morning,True
+2023-02-16 08:11:00,QUEENS,11368,40.746452,-73.8621,0,0,Passing Too Closely,4606002,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,True
+2023-02-16 08:30:00,QUEENS,11101,40.755928,-73.91928,0,0,Backing Unsafely,4607996,Sedan,Moving Violation,Winter,Morning,True
+2023-02-16 11:10:00,QUEENS,11101,40.751972,-73.93197,0,0,Failure to Yield Right-of-Way,4607309,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-16 11:13:00,BROOKLYN,11236,40.6358,-73.903595,0,0,Unsafe Speed,4606130,Bus,Moving Violation,Winter,Morning,False
+2023-02-16 13:50:00,BROOKLYN,11211,40.70421,-73.96123,1,0,Failure to Yield Right-of-Way,4606135,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-16 14:05:00,BROOKLYN,11211,40.71337,-73.934814,1,0,Driver Inattention/Distraction,4606418,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-16 15:15:00,BROOKLYN,11211,40.71565,-73.94214,1,0,Following Too Closely,4606768,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-16 15:28:00,BROOKLYN,11236,40.64077,-73.90913,8,0,Driver Inattention/Distraction,4606491,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-16 16:00:00,BROOKLYN,11211,40.707222,-73.952095,0,0,Driver Inattention/Distraction,4606136,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-16 16:48:00,QUEENS,11101,40.742123,-73.92745,1,0,Driver Inattention/Distraction,4606176,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-16 16:50:00,QUEENS,11385,40.691433,-73.89063,2,0,Following Too Closely,4609043,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-16 17:39:00,BROOKLYN,11234,40.613235,-73.92335,1,0,Driver Inattention/Distraction,4606502,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-16 17:48:00,BROOKLYN,11207,40.66314,-73.88003,3,0,Passing or Lane Usage Improper,4607101,Sedan,Moving Violation,Winter,Evening,True
+2023-02-16 18:10:00,BROOKLYN,11201,40.700733,-73.98974,0,0,Passing or Lane Usage Improper,4606968,Sedan,Moving Violation,Winter,Evening,True
+2023-02-16 18:20:00,BROOKLYN,11207,40.680664,-73.902626,0,0,Driver Inattention/Distraction,4607739,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-16 19:16:00,BROOKLYN,11236,40.63947,-73.902756,3,0,Driver Inattention/Distraction,4607125,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,False
+2023-02-16 19:30:00,QUEENS,11368,40.75639,-73.859726,0,0,Passing Too Closely,4606288,Sedan,Moving Violation,Winter,Evening,False
+2023-02-16 19:45:00,QUEENS,11368,40.745728,-73.86213,2,0,Driver Inattention/Distraction,4609691,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,False
+2023-02-16 21:09:00,BROOKLYN,11207,40.6629,-73.882034,0,0,Driver Inexperience,4607353,Sedan,Driver Inattention,Winter,Night,False
+2023-02-16 22:20:00,BROOKLYN,11207,40.659832,-73.897606,2,0,Traffic Control Disregarded,4607088,Sedan,Moving Violation,Winter,Night,False
+2023-02-16 22:55:00,QUEENS,11368,40.74676,-73.86677,1,0,Driver Inattention/Distraction,4606199,Sedan,Driver Inattention,Winter,Night,False
+2023-02-17 04:05:00,QUEENS,11101,40.75308,-73.93718,0,0,Passing or Lane Usage Improper,4606853,Sedan,Moving Violation,Winter,Early Morning,False
+2023-02-17 05:51:00,BROOKLYN,11201,40.68963,-73.98575,1,0,Turning Improperly,4606976,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-02-17 07:54:00,BROOKLYN,11234,40.62621,-73.927666,1,0,Driver Inattention/Distraction,4607044,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-02-17 09:31:00,BROOKLYN,11201,40.68607,-73.98883,0,0,Passing Too Closely,4608293,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-17 10:20:00,BROOKLYN,11211,40.712795,-73.95867,0,0,Backing Unsafely,4606537,Sedan,Moving Violation,Winter,Morning,False
+2023-02-17 11:07:00,BROOKLYN,11236,40.644295,-73.90139,3,0,Driver Inattention/Distraction,4606304,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-17 11:20:00,BROOKLYN,11201,40.696033,-73.984535,0,0,Driver Inexperience,4606967,Box Truck,Driver Inattention,Winter,Morning,False
+2023-02-17 12:30:00,BROOKLYN,11211,40.70935,-73.962425,0,0,Driver Inattention/Distraction,4607220,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-17 13:00:00,QUEENS,11385,40.70177,-73.9007,2,0,Unsafe Speed,4606782,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-17 13:40:00,BROOKLYN,11206,40.699455,-73.9397,2,0,Failure to Yield Right-of-Way,4606428,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-17 14:42:00,BROOKLYN,11206,40.71066,-73.94375,1,0,Driver Inattention/Distraction,4606416,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-17 14:50:00,BROOKLYN,11206,40.69505,-73.952,0,0,Aggressive Driving/Road Rage,4606478,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-17 15:44:00,QUEENS,11101,40.741882,-73.93318,0,0,Backing Unsafely,4606482,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-17 16:20:00,BROOKLYN,11201,40.69365,-73.98333,2,0,Driver Inattention/Distraction,4606983,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-17 17:35:00,QUEENS,11373,40.7451,-73.87825,0,0,Passing Too Closely,4606652,Ambulance,Moving Violation,Winter,Evening,True
+2023-02-17 18:20:00,QUEENS,11385,40.70193,-73.90621,2,0,Following Too Closely,4606783,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-17 18:36:00,BROOKLYN,11207,40.670624,-73.895546,1,0,Driver Inattention/Distraction,4607095,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-17 19:30:00,BROOKLYN,11234,40.616047,-73.93464,3,0,Failure to Yield Right-of-Way,4607511,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,False
+2023-02-17 21:00:00,QUEENS,11101,40.751976,-73.93161,0,0,Following Too Closely,4611037,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-17 21:45:00,BROOKLYN,11207,40.665363,-73.89808,0,0,Passing or Lane Usage Improper,4607284,Sedan,Moving Violation,Winter,Night,False
+2023-02-18 03:00:00,BROOKLYN,11234,40.6082,-73.920715,2,0,Driver Inattention/Distraction,4606501,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-18 09:20:00,BROOKLYN,11236,40.631454,-73.89029,0,0,Reaction to Uninvolved Vehicle,4606442,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-18 09:31:00,BROOKLYN,11236,40.640713,-73.89215,0,0,Failure to Yield Right-of-Way,4608823,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-18 10:58:00,QUEENS,11101,40.7493,-73.949425,1,0,Driver Inattention/Distraction,4606487,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-18 12:40:00,BROOKLYN,11207,40.67816,-73.897484,1,0,Driver Inattention/Distraction,4608811,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-18 12:52:00,BROOKLYN,11201,40.696198,-73.98877,0,0,Unsafe Lane Changing,4606977,Box Truck,Moving Violation,Winter,Afternoon,False
+2023-02-18 13:20:00,BROOKLYN,11201,40.69205,-73.982544,0,0,Driver Inexperience,4606490,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-18 14:15:00,BROOKLYN,11234,40.607178,-73.92231,0,0,Driver Inexperience,4606506,Pick-up Truck,Driver Inattention,Winter,Afternoon,False
+2023-02-18 16:25:00,BROOKLYN,11206,40.70028,-73.941154,1,0,Driver Inattention/Distraction,4610719,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-18 22:34:00,BROOKLYN,11236,40.651157,-73.918144,1,0,Driver Inattention/Distraction,4606562,Sedan,Driver Inattention,Winter,Night,False
+2023-02-18 23:09:00,BROOKLYN,11206,40.698185,-73.9374,0,0,Driver Inattention/Distraction,4606604,Bus,Driver Inattention,Winter,Night,False
+2023-02-19 03:15:00,BROOKLYN,11207,40.671165,-73.895676,0,0,Driver Inattention/Distraction,4607081,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-19 07:05:00,BROOKLYN,11211,40.708714,-73.9587,0,0,Driver Inattention/Distraction,4607711,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-02-19 10:36:00,BROOKLYN,11236,40.63393,-73.89396,1,0,Failure to Yield Right-of-Way,4606761,Sedan,Moving Violation,Winter,Morning,False
+2023-02-19 15:30:00,BROOKLYN,11206,40.69897,-73.95702,0,0,Passing or Lane Usage Improper,4606852,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-19 15:45:00,BROOKLYN,11211,40.71104,-73.9628,2,0,Driver Inattention/Distraction,4607788,Taxi,Driver Inattention,Winter,Afternoon,False
+2023-02-19 16:10:00,QUEENS,11101,40.742874,-73.933945,0,0,Driver Inattention/Distraction,4607534,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-19 16:35:00,QUEENS,11101,40.753223,-73.91215,0,0,Backing Unsafely,4606827,Sedan,Moving Violation,Winter,Evening,True
+2023-02-19 17:30:00,QUEENS,11368,40.752453,-73.85911,0,0,Passing Too Closely,4607832,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-19 18:30:00,QUEENS,11101,40.743904,-73.94877,0,0,Driver Inattention/Distraction,4607539,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-19 20:33:00,QUEENS,11373,40.742622,-73.88028,1,0,Driver Inattention/Distraction,4607740,Sedan,Driver Inattention,Winter,Night,False
+2023-02-19 20:57:00,BROOKLYN,11234,40.61472,-73.92254,0,0,Following Too Closely,4607049,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-19 21:00:00,QUEENS,11385,40.701244,-73.90811,0,0,Passing Too Closely,4606824,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-19 21:52:00,BROOKLYN,11206,40.700943,-73.942314,1,0,Driver Inattention/Distraction,4607432,E-Scooter,Driver Inattention,Winter,Night,False
+2023-02-19 22:15:00,BROOKLYN,11236,40.63226,-73.90088,1,0,Traffic Control Disregarded,4606809,Sedan,Moving Violation,Winter,Night,False
+2023-02-20 09:58:00,QUEENS,11373,40.734768,-73.87459,2,0,Following Too Closely,4607968,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-20 13:15:00,BROOKLYN,11236,40.64821,-73.893616,0,0,Passing Too Closely,4608395,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-20 14:36:00,BROOKLYN,11206,40.70938,-73.9371,0,0,Driver Inattention/Distraction,4608569,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-20 15:35:00,BROOKLYN,11201,40.695892,-73.99555,1,0,Passing or Lane Usage Improper,4607954,Motorscooter,Moving Violation,Winter,Afternoon,False
+2023-02-20 18:56:00,BROOKLYN,11236,40.64891,-73.89256,0,0,Passing or Lane Usage Improper,4607144,Sedan,Moving Violation,Winter,Evening,True
+2023-02-20 23:39:00,QUEENS,11368,40.756474,-73.87122,0,0,Following Too Closely,4607845,Sedan,Moving Violation,Winter,Night,False
+2023-02-21 08:36:00,QUEENS,11101,40.755234,-73.941246,0,0,Driver Inattention/Distraction,4610026,Sedan,Driver Inattention,Winter,Morning,True
+2023-02-21 09:10:00,BROOKLYN,11207,40.660656,-73.885796,0,0,Passing or Lane Usage Improper,4607348,Sedan,Moving Violation,Winter,Morning,False
+2023-02-21 09:55:00,BROOKLYN,11211,40.70935,-73.962425,0,0,Driver Inattention/Distraction,4607409,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-21 13:39:00,BROOKLYN,11207,40.65822,-73.89146,1,0,Passing or Lane Usage Improper,4607677,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-21 16:52:00,QUEENS,11373,40.746983,-73.87197,1,0,Driver Inattention/Distraction,4607571,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-21 19:35:00,BROOKLYN,11206,40.70002,-73.95451,0,0,Passing or Lane Usage Improper,4607433,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,False
+2023-02-21 23:47:00,QUEENS,11373,40.73675,-73.87768,0,0,Following Too Closely,4607975,Sedan,Moving Violation,Winter,Night,False
+2023-02-22 00:00:00,BROOKLYN,11207,40.67509,-73.89187,0,0,Driver Inattention/Distraction,4607839,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-22 00:00:00,QUEENS,11101,40.751434,-73.94725,0,0,Driver Inattention/Distraction,4607797,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-22 06:00:00,BROOKLYN,11234,40.618813,-73.93272,0,0,Driver Inattention/Distraction,4609210,Sedan,Driver Inattention,Winter,Early Morning,True
+2023-02-22 08:30:00,BROOKLYN,11211,40.716724,-73.958916,1,0,Failure to Yield Right-of-Way,4607554,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,True
+2023-02-22 09:04:00,BROOKLYN,11211,40.714455,-73.935295,0,0,Driver Inattention/Distraction,4607693,Van,Driver Inattention,Winter,Morning,False
+2023-02-22 09:18:00,BROOKLYN,11206,40.701027,-73.94813,0,0,Unsafe Speed,4608116,Sedan,Moving Violation,Winter,Morning,False
+2023-02-22 09:53:00,BROOKLYN,11201,40.690342,-73.994774,0,0,Driver Inattention/Distraction,4607692,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-22 13:24:00,BROOKLYN,11206,40.70497,-73.933205,0,0,Driver Inattention/Distraction,4607694,Pick-up Truck,Driver Inattention,Winter,Afternoon,False
+2023-02-22 14:00:00,QUEENS,11101,40.74163,-73.9446,0,0,Driver Inattention/Distraction,4607801,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-22 14:06:00,BROOKLYN,11207,40.68084,-73.89052,1,0,Failure to Yield Right-of-Way,4607668,Bike,Moving Violation,Winter,Afternoon,False
+2023-02-22 14:52:00,QUEENS,11368,40.74958,-73.8654,0,0,Backing Unsafely,4607669,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-22 15:18:00,BROOKLYN,11201,40.698246,-73.98055,0,0,Unsafe Lane Changing,4607691,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-22 19:00:00,BROOKLYN,11207,40.669422,-73.89912,0,0,Driver Inattention/Distraction,4607837,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-22 19:53:00,QUEENS,11368,40.756252,-73.85773,1,0,Passing Too Closely,4608719,Sedan,Moving Violation,Winter,Evening,False
+2023-02-22 20:11:00,BROOKLYN,11211,40.716328,-73.948074,1,0,Unsafe Speed,4607984,Sedan,Moving Violation,Winter,Night,False
+2023-02-22 22:02:00,BROOKLYN,11206,40.701763,-73.9276,0,0,Driver Inattention/Distraction,4608252,Sedan,Driver Inattention,Winter,Night,False
+2023-02-22 22:17:00,BROOKLYN,11207,40.658577,-73.89063,1,0,Passing or Lane Usage Improper,4607840,Sedan,Moving Violation,Winter,Night,False
+2023-02-22 23:05:00,BROOKLYN,11201,40.690468,-73.9879,0,0,Passing or Lane Usage Improper,4608448,Sedan,Moving Violation,Winter,Night,False
+2023-02-23 01:20:00,QUEENS,11368,40.75561,-73.86714,1,0,Following Too Closely,4608740,Sedan,Moving Violation,Winter,Late Night,False
+2023-02-23 01:25:00,BROOKLYN,11201,40.70206,-73.99262,0,0,Driver Inattention/Distraction,4607957,Taxi,Driver Inattention,Winter,Late Night,False
+2023-02-23 01:50:00,BROOKLYN,11207,40.660675,-73.89687,0,0,Driver Inattention/Distraction,4607841,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-23 05:53:00,QUEENS,11373,40.739883,-73.868996,0,0,Driver Inattention/Distraction,4610682,Sedan,Driver Inattention,Winter,Early Morning,False
+2023-02-23 06:50:00,QUEENS,11385,40.691433,-73.89063,1,0,Failure to Yield Right-of-Way,4608535,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,True
+2023-02-23 09:20:00,BROOKLYN,11201,40.68814,-73.99751,0,0,Passing Too Closely,4607930,Ambulance,Moving Violation,Winter,Morning,False
+2023-02-23 10:33:00,QUEENS,11373,40.740784,-73.89,0,0,Turning Improperly,4607970,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-23 11:00:00,QUEENS,11101,40.74613,-73.94172,0,0,Driver Inattention/Distraction,4608318,Taxi,Driver Inattention,Winter,Morning,False
+2023-02-23 13:35:00,BROOKLYN,11201,40.68963,-73.98575,1,0,Turning Improperly,4608452,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Afternoon,False
+2023-02-23 15:34:00,BROOKLYN,11206,40.70278,-73.946915,0,0,Driver Inattention/Distraction,4608118,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-23 15:35:00,QUEENS,11101,40.75514,-73.92213,0,0,Failure to Yield Right-of-Way,4608267,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-23 16:00:00,BROOKLYN,11207,40.662674,-73.89738,1,0,Driver Inattention/Distraction,4608826,Box Truck,Driver Inattention,Winter,Evening,True
+2023-02-23 17:18:00,BROOKLYN,11207,40.67816,-73.897484,0,0,Driver Inattention/Distraction,4608474,MTA transi,Driver Inattention,Winter,Evening,True
+2023-02-23 17:57:00,QUEENS,11385,40.700665,-73.8961,3,0,Backing Unsafely,4607953,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-23 18:30:00,QUEENS,11373,40.745277,-73.888115,1,0,Driver Inattention/Distraction,4607967,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-23 18:34:00,QUEENS,11373,40.745796,-73.88385,1,0,Driver Inattention/Distraction,4607963,Taxi,Driver Inattention,Winter,Evening,True
+2023-02-23 23:54:00,QUEENS,11373,40.73877,-73.88789,0,0,Driver Inattention/Distraction,4607976,Sedan,Driver Inattention,Winter,Night,False
+2023-02-24 00:07:00,QUEENS,11101,40.75475,-73.93678,1,0,Failure to Yield Right-of-Way,4607994,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-02-24 00:20:00,BROOKLYN,11206,40.708782,-73.94344,1,0,Driver Inattention/Distraction,4608597,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-24 00:45:00,BROOKLYN,11207,40.67098,-73.884384,1,0,Failure to Yield Right-of-Way,4608489,Sedan,Moving Violation,Winter,Late Night,False
+2023-02-24 05:10:00,BROOKLYN,11206,40.700413,-73.95734,0,0,Passing Too Closely,4608566,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Early Morning,False
+2023-02-24 06:20:00,BROOKLYN,11201,40.696033,-73.984535,0,0,Driver Inattention/Distraction,4608290,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Early Morning,True
+2023-02-24 08:00:00,QUEENS,11101,40.744656,-73.94853,0,0,Driver Inattention/Distraction,4608282,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,True
+2023-02-24 09:40:00,BROOKLYN,11207,40.67766,-73.88574,0,0,Unsafe Lane Changing,4608476,Sedan,Moving Violation,Winter,Morning,False
+2023-02-24 10:00:00,QUEENS,11385,40.70863,-73.859406,0,0,Driver Inattention/Distraction,4608083,Pick-up Truck,Driver Inattention,Winter,Morning,False
+2023-02-24 10:14:00,QUEENS,11368,40.740993,-73.86563,0,0,Driver Inexperience,4608066,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-24 11:20:00,QUEENS,11101,40.738205,-73.92823,1,0,Driver Inattention/Distraction,4608334,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-24 11:39:00,BROOKLYN,11234,40.62429,-73.935036,2,0,Driver Inattention/Distraction,4608099,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-24 11:45:00,BROOKLYN,11201,40.691963,-74.00042,0,0,Driver Inattention/Distraction,4608356,Pick-up Truck,Driver Inattention,Winter,Morning,False
+2023-02-24 13:01:00,BROOKLYN,11234,40.62587,-73.91793,2,0,Driver Inattention/Distraction,4608102,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-24 13:41:00,BROOKLYN,11234,40.60981,-73.92251,0,0,Driver Inattention/Distraction,4608100,Van,Driver Inattention,Winter,Afternoon,False
+2023-02-24 15:00:00,BROOKLYN,11211,40.71374,-73.93343,0,0,Driver Inattention/Distraction,4608570,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-24 15:30:00,BROOKLYN,11236,40.63193,-73.88763,0,0,Backing Unsafely,4612366,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-24 15:35:00,BROOKLYN,11201,40.691193,-73.99777,0,0,Passing or Lane Usage Improper,4608184,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-24 16:00:00,QUEENS,11368,40.76061,-73.84586,0,0,Driver Inattention/Distraction,4608892,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-24 16:20:00,QUEENS,11101,40.74044,-73.949936,1,0,Driver Inattention/Distraction,4609404,Pick-up Truck,Driver Inattention,Winter,Evening,True
+2023-02-24 16:29:00,BROOKLYN,11236,40.64952,-73.912544,1,0,Failure to Yield Right-of-Way,4608370,Sedan,Moving Violation,Winter,Evening,True
+2023-02-24 16:59:00,BROOKLYN,11236,40.638813,-73.90818,0,0,Driver Inattention/Distraction,4608146,Bus,Driver Inattention,Winter,Evening,True
+2023-02-24 16:59:00,BROOKLYN,11207,40.68746,-73.906494,0,0,Turning Improperly,4612163,Sedan,Moving Violation,Winter,Evening,True
+2023-02-24 17:39:00,QUEENS,11373,40.734737,-73.87227,1,0,Passing or Lane Usage Improper,4608400,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-24 18:00:00,QUEENS,11373,40.738853,-73.8884,0,0,Driver Inattention/Distraction,4610264,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-24 18:00:00,BROOKLYN,11211,40.707684,-73.96275,1,0,Turning Improperly,4608592,Sedan,Moving Violation,Winter,Evening,True
+2023-02-24 20:21:00,QUEENS,11368,40.756287,-73.860725,0,0,Driver Inattention/Distraction,4608713,Sedan,Driver Inattention,Winter,Night,False
+2023-02-24 22:15:00,BROOKLYN,11236,40.631016,-73.89404,0,0,Passing or Lane Usage Improper,4609965,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-25 00:23:00,BROOKLYN,11211,40.70969,-73.96168,0,0,Driver Inattention/Distraction,4608579,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-25 01:30:00,QUEENS,11101,40.75447,-73.93015,0,0,Driver Inattention/Distraction,4615021,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-25 01:35:00,QUEENS,11368,40.75755,-73.85937,2,0,Driver Inattention/Distraction,4608715,Taxi,Driver Inattention,Winter,Late Night,False
+2023-02-25 03:03:00,BROOKLYN,11206,40.70376,-73.94725,1,0,Driver Inattention/Distraction,4608120,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-25 14:28:00,BROOKLYN,11201,40.69613,-73.987114,0,0,Passing Too Closely,4610197,Pick-up Truck,Moving Violation,Winter,Afternoon,False
+2023-02-25 14:40:00,BROOKLYN,11211,40.708424,-73.95791,1,0,Driver Inexperience,4608573,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-25 16:30:00,QUEENS,11101,40.742874,-73.933945,0,0,Driver Inattention/Distraction,4608659,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-25 17:00:00,BROOKLYN,11211,40.715267,-73.941734,0,0,Driver Inattention/Distraction,4609911,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-25 17:40:00,QUEENS,11373,40.731277,-73.871574,0,0,Passing or Lane Usage Improper,4608374,Sedan,Moving Violation,Winter,Evening,True
+2023-02-25 18:45:00,BROOKLYN,11236,40.636658,-73.91455,0,0,Driver Inattention/Distraction,4608393,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-25 19:20:00,QUEENS,11368,40.747356,-73.867355,1,0,Driver Inattention/Distraction,4608404,E-Scooter,Driver Inattention,Winter,Evening,False
+2023-02-25 22:30:00,QUEENS,11101,40.751602,-73.93384,2,0,Following Too Closely,4610027,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Night,False
+2023-02-25 22:40:00,BROOKLYN,11206,40.708023,-73.93992,0,0,Following Too Closely,4608580,Sedan,Moving Violation,Winter,Night,False
+2023-02-26 02:00:00,QUEENS,11385,40.696667,-73.900406,0,0,Driver Inexperience,4609044,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-26 02:35:00,BROOKLYN,11206,40.700726,-73.94194,1,0,Driver Inattention/Distraction,4608209,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-26 03:25:00,QUEENS,11368,40.75357,-73.85539,2,0,Traffic Control Disregarded,4608742,Sedan,Moving Violation,Winter,Late Night,False
+2023-02-26 04:08:00,BROOKLYN,11236,40.64569,-73.91204,0,0,Turning Improperly,4610216,Sedan,Moving Violation,Winter,Early Morning,False
+2023-02-26 04:35:00,QUEENS,11101,40.750187,-73.93845,0,0,Unsafe Lane Changing,4608699,Sedan,Moving Violation,Winter,Early Morning,False
+2023-02-26 05:40:00,QUEENS,11373,40.73675,-73.87768,1,0,Driver Inexperience,4609057,Motorcycle,Driver Inattention,Winter,Early Morning,False
+2023-02-26 07:50:00,BROOKLYN,11207,40.68097,-73.8915,0,0,Passing Too Closely,4608493,Sedan,Moving Violation,Winter,Early Morning,True
+2023-02-26 08:00:00,QUEENS,11368,40.74894,-73.85448,0,0,Traffic Control Disregarded,4609157,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,True
+2023-02-26 11:00:00,BROOKLYN,11236,40.64275,-73.90378,1,0,Driver Inattention/Distraction,4608396,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Morning,False
+2023-02-26 11:11:00,BROOKLYN,11211,40.716236,-73.946396,1,0,Driver Inattention/Distraction,4608562,Sedan,Driver Inattention,Winter,Morning,False
+2023-02-26 12:00:00,BROOKLYN,11236,40.631435,-73.885414,0,0,Driver Inattention/Distraction,4609607,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-26 12:00:00,QUEENS,11385,40.692314,-73.88268,0,0,Unsafe Lane Changing,4609242,Sedan,Moving Violation,Winter,Afternoon,False
+2023-02-26 14:30:00,QUEENS,11368,40.759872,-73.84498,0,0,Driver Inattention/Distraction,4608604,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-26 15:00:00,QUEENS,11368,40.743397,-73.859566,0,0,Driver Inattention/Distraction,4608891,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Afternoon,False
+2023-02-26 17:06:00,BROOKLYN,11206,40.697903,-73.9468,3,0,Driver Inattention/Distraction,4610788,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-26 17:25:00,QUEENS,11385,40.712696,-73.900604,0,0,Passing Too Closely,4608947,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-26 18:00:00,BROOKLYN,11207,40.66684,-73.899414,0,0,Driver Inattention/Distraction,4608546,Sedan,Driver Inattention,Winter,Evening,True
+2023-02-27 00:00:00,QUEENS,11101,40.740276,-73.92782,2,0,Failure to Yield Right-of-Way,4608768,Sedan,Moving Violation,Winter,Late Night,False
+2023-02-27 00:00:00,BROOKLYN,11236,40.642895,-73.890785,0,0,Driver Inattention/Distraction,4608822,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Late Night,False
+2023-02-27 00:00:00,BROOKLYN,11236,40.632954,-73.90416,0,0,Unsafe Speed,4608703,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-02-27 00:00:00,QUEENS,11373,40.74758,-73.87519,0,0,Passing Too Closely,4610266,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-02-27 03:08:00,QUEENS,11373,40.740803,-73.88998,0,0,Driver Inattention/Distraction,4608607,Sedan,Driver Inattention,Winter,Late Night,False
+2023-02-27 08:25:00,BROOKLYN,11207,40.668926,-73.88748,0,0,Passing Too Closely,4608809,Truck,Moving Violation,Winter,Morning,True
+2023-02-27 08:30:00,BROOKLYN,11236,40.650494,-73.89799,0,0,Following Too Closely,4609606,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,True
+2023-02-27 09:37:00,QUEENS,11368,40.742798,-73.86637,1,0,Driver Inattention/Distraction,4609158,Bus,Driver Inattention,Winter,Morning,False
+2023-02-27 11:20:00,QUEENS,11101,40.744026,-73.92616,1,0,Failure to Yield Right-of-Way,4609550,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Morning,False
+2023-02-27 14:29:00,BROOKLYN,11211,40.71923,-73.956215,1,0,Driver Inattention/Distraction,4608930,Motorcycle,Driver Inattention,Winter,Afternoon,False
+2023-02-27 18:12:00,QUEENS,11385,40.709038,-73.89846,3,0,Driver Inattention/Distraction,4609048,Station Wagon/Sport Utility Vehicle,Driver Inattention,Winter,Evening,True
+2023-02-27 20:27:00,QUEENS,11101,40.736713,-73.933784,0,0,Driver Inattention/Distraction,4609549,Sedan,Driver Inattention,Winter,Night,False
+2023-02-28 00:10:00,BROOKLYN,11207,40.66314,-73.88003,1,0,Failure to Yield Right-of-Way,4609081,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Late Night,False
+2023-02-28 08:41:00,BROOKLYN,11234,40.61478,-73.92139,0,0,Driver Inattention/Distraction,4609222,Sedan,Driver Inattention,Winter,Morning,True
+2023-02-28 12:35:00,BROOKLYN,11236,40.63838,-73.89481,0,0,Driver Inattention/Distraction,4609319,Pick-up Truck,Driver Inattention,Winter,Afternoon,False
+2023-02-28 14:23:00,BROOKLYN,11234,40.607178,-73.92231,2,0,Driver Inattention/Distraction,4609216,Sedan,Driver Inattention,Winter,Afternoon,False
+2023-02-28 16:14:00,BROOKLYN,11236,40.64275,-73.90378,0,0,Traffic Control Disregarded,4609075,Van,Moving Violation,Winter,Evening,True
+2023-02-28 16:40:00,BROOKLYN,11207,40.669228,-73.8962,2,0,Following Too Closely,4616302,Bus,Moving Violation,Winter,Evening,True
+2023-02-28 18:00:00,BROOKLYN,11201,40.69365,-73.98333,1,0,Traffic Control Disregarded,4609575,Station Wagon/Sport Utility Vehicle,Moving Violation,Winter,Evening,True
+2023-02-28 21:50:00,BROOKLYN,11201,40.68993,-73.98148,1,0,Traffic Control Disregarded,4610213,Taxi,Moving Violation,Winter,Night,False
+2023-03-01 04:40:00,BROOKLYN,11207,40.65978,-73.88292,0,0,Turning Improperly,4609327,Van,Moving Violation,Spring,Early Morning,False
+2023-03-01 06:00:00,QUEENS,11101,40.751904,-73.9346,0,0,Passing or Lane Usage Improper,4610030,Sedan,Moving Violation,Spring,Early Morning,True
+2023-03-01 08:00:00,BROOKLYN,11201,40.70242,-73.9867,0,0,Driver Inattention/Distraction,4610005,Sedan,Driver Inattention,Spring,Morning,True
+2023-03-01 09:30:00,BROOKLYN,11207,40.655563,-73.87974,0,0,Unsafe Speed,4609330,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-01 09:46:00,BROOKLYN,11207,40.68708,-73.913895,1,0,Passing or Lane Usage Improper,4609477,Bus,Moving Violation,Spring,Morning,False
+2023-03-01 10:48:00,BROOKLYN,11236,40.64932,-73.904175,0,0,Driver Inattention/Distraction,4609321,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-01 10:50:00,QUEENS,11385,40.702454,-73.874466,0,0,Turning Improperly,4609792,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-01 10:50:00,BROOKLYN,11236,40.636044,-73.890686,1,0,Failure to Yield Right-of-Way,4610525,Sedan,Moving Violation,Spring,Morning,False
+2023-03-01 11:40:00,QUEENS,11373,40.735893,-73.86545,0,0,Unsafe Speed,4609391,Sedan,Moving Violation,Spring,Morning,False
+2023-03-01 13:15:00,QUEENS,11385,40.709892,-73.859566,0,0,Driver Inattention/Distraction,4609921,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-01 13:29:00,BROOKLYN,11201,40.69267,-73.991905,1,0,Backing Unsafely,4609597,Taxi,Moving Violation,Spring,Afternoon,False
+2023-03-01 13:40:00,BROOKLYN,11207,40.66166,-73.897125,0,0,Following Too Closely,4609613,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-01 14:31:00,BROOKLYN,11234,40.607628,-73.92007,3,0,Driver Inattention/Distraction,4609959,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-01 15:00:00,BROOKLYN,11206,40.70099,-73.94083,0,0,Driver Inexperience,4614902,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-01 15:14:00,QUEENS,11101,40.748913,-73.9374,1,0,Driver Inattention/Distraction,4609279,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-01 15:40:00,BROOKLYN,11211,40.71196,-73.9407,1,0,Traffic Control Disregarded,4611266,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-01 16:09:00,BROOKLYN,11236,40.635105,-73.89117,0,0,Driver Inattention/Distraction,4609320,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-01 16:18:00,BROOKLYN,11211,40.718384,-73.94907,0,0,Driver Inexperience,4609396,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-01 16:54:00,BROOKLYN,11234,40.615646,-73.92459,0,0,Failure to Yield Right-of-Way,4615491,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-01 17:00:00,BROOKLYN,11201,40.70005,-73.99177,0,0,Passing Too Closely,4609387,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-01 19:40:00,QUEENS,11368,40.757725,-73.86372,0,0,Following Too Closely,4609332,Sedan,Moving Violation,Spring,Evening,False
+2023-03-01 20:32:00,BROOKLYN,11207,40.675625,-73.89879,0,0,Failure to Yield Right-of-Way,4609609,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Night,False
+2023-03-02 02:20:00,BROOKLYN,11207,40.661835,-73.893105,1,0,Failure to Yield Right-of-Way,4609612,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-02 04:30:00,QUEENS,11101,40.745068,-73.93826,0,0,Driver Inattention/Distraction,4609416,Sedan,Driver Inattention,Spring,Early Morning,False
+2023-03-02 07:00:00,BROOKLYN,11207,40.65612,-73.88016,0,0,Unsafe Speed,4609615,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,True
+2023-03-02 09:30:00,BROOKLYN,11206,40.70532,-73.93526,0,0,Driver Inattention/Distraction,4610292,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-02 11:00:00,BROOKLYN,11207,40.674397,-73.896515,0,0,Traffic Control Disregarded,4609619,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-02 11:15:00,BROOKLYN,11201,40.69157,-73.99921,0,0,Driver Inattention/Distraction,4609725,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-02 14:38:00,BROOKLYN,11207,40.68238,-73.90565,1,0,Backing Unsafely,4613185,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-02 16:50:00,BROOKLYN,11236,40.635136,-73.91388,0,0,Driver Inattention/Distraction,4609964,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-02 18:11:00,BROOKLYN,11234,40.62166,-73.92233,0,0,Driver Inexperience,4611928,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-02 19:30:00,BROOKLYN,11234,40.636074,-73.92191,0,0,Driver Inattention/Distraction,4611070,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,False
+2023-03-02 20:20:00,BROOKLYN,11211,40.71466,-73.95901,0,0,Backing Unsafely,4611267,Sedan,Moving Violation,Spring,Night,False
+2023-03-03 00:30:00,QUEENS,11101,40.73927,-73.933716,0,0,Backing Unsafely,4610602,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Late Night,False
+2023-03-03 04:56:00,QUEENS,11373,40.738,-73.883865,1,0,Driver Inattention/Distraction,4609702,Box Truck,Driver Inattention,Spring,Early Morning,False
+2023-03-03 06:48:00,BROOKLYN,11207,40.67643,-73.89128,2,0,Driver Inattention/Distraction,4610179,Sedan,Driver Inattention,Spring,Early Morning,True
+2023-03-03 07:03:00,BROOKLYN,11207,40.68016,-73.893196,7,0,Driver Inattention/Distraction,4610171,Bus,Driver Inattention,Spring,Early Morning,True
+2023-03-03 09:00:00,QUEENS,11385,40.71062,-73.86491,0,0,Following Too Closely,4609756,Box Truck,Moving Violation,Spring,Morning,True
+2023-03-03 10:45:00,QUEENS,11101,40.753178,-73.91184,0,0,Driver Inattention/Distraction,4610037,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-03 11:36:00,BROOKLYN,11234,40.60153,-73.913475,1,0,Driver Inattention/Distraction,4610342,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-03 13:30:00,BROOKLYN,11206,40.71106,-73.942116,0,0,Driver Inattention/Distraction,4610288,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-03 13:30:00,QUEENS,11101,40.751,-73.94881,0,0,Driver Inattention/Distraction,4610059,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-03 16:41:00,BROOKLYN,11236,40.64366,-73.90067,1,0,Driver Inattention/Distraction,4610215,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-03 18:30:00,QUEENS,11101,40.75199,-73.931274,1,0,Failure to Yield Right-of-Way,4610326,van,Moving Violation,Spring,Evening,True
+2023-03-03 18:59:00,BROOKLYN,11234,40.614918,-73.91468,0,0,Traffic Control Disregarded,4611900,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-03 20:43:00,BROOKLYN,11234,40.62619,-73.921844,1,0,Unsafe Speed,4609889,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Night,False
+2023-03-03 21:00:00,QUEENS,11101,40.740276,-73.92782,0,0,Driver Inattention/Distraction,4610058,Sedan,Driver Inattention,Spring,Night,False
+2023-03-03 21:05:00,BROOKLYN,11211,40.71578,-73.94631,0,0,Traffic Control Disregarded,4611406,Sedan,Moving Violation,Spring,Night,False
+2023-03-03 21:30:00,BROOKLYN,11206,40.70665,-73.95042,1,0,Driver Inattention/Distraction,4610072,Ambulance,Driver Inattention,Spring,Night,False
+2023-03-03 22:20:00,BROOKLYN,11201,40.69108,-73.98439,0,0,Driver Inattention/Distraction,4609895,Sedan,Driver Inattention,Spring,Night,False
+2023-03-04 00:00:00,BROOKLYN,11207,40.660988,-73.890274,0,0,Following Too Closely,4610846,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-04 00:20:00,QUEENS,11368,40.750717,-73.85877,0,0,Backing Unsafely,4609970,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Late Night,False
+2023-03-04 01:00:00,BROOKLYN,11207,40.679535,-73.900475,1,0,Traffic Control Disregarded,4611680,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Late Night,False
+2023-03-04 02:20:00,BROOKLYN,11211,40.71252,-73.93833,1,0,Turning Improperly,4610082,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-04 04:40:00,QUEENS,11101,40.753994,-73.94244,0,0,Driver Inattention/Distraction,4612974,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Early Morning,False
+2023-03-04 05:30:00,BROOKLYN,11207,40.670036,-73.88416,1,0,Passing Too Closely,4611155,Sedan,Moving Violation,Spring,Early Morning,False
+2023-03-04 08:12:00,BROOKLYN,11206,40.693172,-73.94878,0,0,Driver Inattention/Distraction,4610778,Box Truck,Driver Inattention,Spring,Morning,True
+2023-03-04 08:36:00,QUEENS,11385,40.694107,-73.89737,1,0,Driver Inattention/Distraction,4610758,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,True
+2023-03-04 08:45:00,BROOKLYN,11206,40.700718,-73.929794,0,0,Unsafe Speed,4609950,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,True
+2023-03-04 09:00:00,QUEENS,11101,40.75001,-73.944374,0,0,Driver Inattention/Distraction,4610888,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,True
+2023-03-04 11:15:00,QUEENS,11368,40.742683,-73.85463,0,0,Driver Inattention/Distraction,4610740,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-04 13:32:00,BROOKLYN,11211,40.713932,-73.956085,0,0,Driver Inattention/Distraction,4613786,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-04 14:20:00,QUEENS,11101,40.753994,-73.94244,5,0,Traffic Control Disregarded,4610040,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-04 15:08:00,BROOKLYN,11236,40.649982,-73.91183,1,0,Traffic Control Disregarded,4610890,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-04 16:30:00,QUEENS,11368,40.748066,-73.8574,0,0,Driver Inattention/Distraction,4610127,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-04 20:14:00,BROOKLYN,11206,40.69541,-73.942375,0,0,Driver Inattention/Distraction,4611177,Sedan,Driver Inattention,Spring,Night,False
+2023-03-04 22:24:00,BROOKLYN,11206,40.70213,-73.94432,1,0,Passing Too Closely,4610300,E-Bike,Moving Violation,Spring,Night,False
+2023-03-05 00:00:00,BROOKLYN,11207,40.65663,-73.89245,2,0,Unsafe Lane Changing,4610168,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-05 00:01:00,BROOKLYN,11234,40.608643,-73.903076,0,0,Unsafe Speed,4610345,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-05 00:22:00,BROOKLYN,11201,40.703037,-73.99256,0,0,Driver Inattention/Distraction,4610044,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Late Night,False
+2023-03-05 01:20:00,BROOKLYN,11206,40.698265,-73.93399,0,0,Driver Inattention/Distraction,4610110,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-05 05:20:00,QUEENS,11368,40.738,-73.85822,0,0,Passing or Lane Usage Improper,4611658,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,False
+2023-03-05 09:45:00,BROOKLYN,11234,40.61679,-73.92373,1,0,Failure to Yield Right-of-Way,4610346,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-05 10:15:00,BROOKLYN,11206,40.700527,-73.94161,0,0,Backing Unsafely,4611192,Ambulance,Moving Violation,Spring,Morning,False
+2023-03-05 10:50:00,BROOKLYN,11206,40.710754,-73.93614,0,0,Driver Inattention/Distraction,4611257,PK,Driver Inattention,Spring,Morning,False
+2023-03-05 11:28:00,BROOKLYN,11236,40.627857,-73.9041,0,0,Following Too Closely,4611489,Sedan,Moving Violation,Spring,Morning,False
+2023-03-05 12:45:00,BROOKLYN,11236,40.644707,-73.899055,1,0,Driver Inattention/Distraction,4610214,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-05 13:49:00,BROOKLYN,11236,40.643776,-73.913765,1,0,Driver Inattention/Distraction,4610524,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-05 15:15:00,BROOKLYN,11236,40.650402,-73.89422,0,0,Failure to Yield Right-of-Way,4610615,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-05 15:20:00,BROOKLYN,11207,40.675735,-73.89686,1,0,Driver Inattention/Distraction,4610840,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-05 15:30:00,QUEENS,11101,40.734314,-73.93803,3,0,Traffic Control Disregarded,4610604,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-05 16:51:00,QUEENS,11368,40.752026,-73.86909,0,0,Driver Inattention/Distraction,4610505,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-05 16:57:00,QUEENS,11368,40.750618,-73.86621,0,0,Passing Too Closely,4610447,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-05 17:29:00,BROOKLYN,11236,40.642242,-73.910774,1,0,Failure to Yield Right-of-Way,4611965,Sedan,Moving Violation,Spring,Evening,True
+2023-03-05 18:14:00,BROOKLYN,11211,40.70908,-73.9575,0,0,Passing or Lane Usage Improper,4614700,Bus,Moving Violation,Spring,Evening,True
+2023-03-05 18:20:00,BROOKLYN,11207,40.676617,-73.89025,0,0,Driver Inattention/Distraction,4610847,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-05 19:10:00,BROOKLYN,11211,40.717834,-73.95773,1,0,Failure to Yield Right-of-Way,4612777,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,False
+2023-03-05 23:50:00,BROOKLYN,11207,40.679337,-73.89483,1,0,Traffic Control Disregarded,4610848,Sedan,Moving Violation,Spring,Night,False
+2023-03-06 03:55:00,BROOKLYN,11206,40.70335,-73.94755,0,0,Following Too Closely,4611261,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-06 08:30:00,BROOKLYN,11201,40.691456,-73.98735,1,0,Failure to Yield Right-of-Way,4610648,E-Bike,Moving Violation,Spring,Morning,True
+2023-03-06 08:30:00,BROOKLYN,11234,40.628002,-73.918175,2,0,Driver Inattention/Distraction,4611390,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,True
+2023-03-06 10:00:00,BROOKLYN,11234,40.626846,-73.92967,0,0,Driver Inattention/Distraction,4611239,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-06 10:50:00,BROOKLYN,11234,40.621933,-73.936134,0,0,Driver Inattention/Distraction,4610526,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-06 11:39:00,BROOKLYN,11201,40.69367,-73.98725,0,0,Backing Unsafely,4610643,PASSENGER,Moving Violation,Spring,Morning,False
+2023-03-06 13:10:00,BROOKLYN,11201,40.690468,-73.9879,0,0,Driver Inattention/Distraction,4610641,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-06 14:00:00,BROOKLYN,11206,40.700718,-73.929794,1,0,Driver Inattention/Distraction,4610724,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-06 15:05:00,QUEENS,11385,40.71282,-73.90378,2,0,Unsafe Lane Changing,4610766,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-06 15:35:00,BROOKLYN,11201,40.696033,-73.984535,0,0,Driver Inattention/Distraction,4610644,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-06 16:30:00,BROOKLYN,11201,40.699993,-73.99099,0,0,Passing or Lane Usage Improper,4610941,Bus,Moving Violation,Spring,Evening,True
+2023-03-06 17:30:00,BROOKLYN,11236,40.64449,-73.90857,0,0,Unsafe Speed,4610892,Sedan,Moving Violation,Spring,Evening,True
+2023-03-06 19:35:00,BROOKLYN,11207,40.65516,-73.888084,0,0,Driver Inattention/Distraction,4611156,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,False
+2023-03-07 00:00:00,BROOKLYN,11234,40.62356,-73.927376,1,0,Driver Inattention/Distraction,4611065,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-07 06:32:00,BROOKLYN,11207,40.676144,-73.893074,0,0,Failure to Yield Right-of-Way,4610853,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,True
+2023-03-07 07:17:00,BROOKLYN,11207,40.665745,-73.89816,0,0,Following Too Closely,4610857,Bus,Moving Violation,Spring,Early Morning,True
+2023-03-07 08:00:00,QUEENS,11101,40.738174,-73.93201,0,0,Driver Inattention/Distraction,4611086,Van,Driver Inattention,Spring,Morning,True
+2023-03-07 08:09:00,QUEENS,11385,40.713024,-73.91714,0,0,Unsafe Speed,4610777,Sedan,Moving Violation,Spring,Morning,True
+2023-03-07 09:15:00,BROOKLYN,11207,40.67274,-73.899,0,0,Turning Improperly,4610858,truck,Moving Violation,Spring,Morning,False
+2023-03-07 10:45:00,BROOKLYN,11206,40.70721,-73.93656,0,0,Passing Too Closely,4612846,Box Truck,Moving Violation,Spring,Morning,False
+2023-03-07 12:24:00,QUEENS,11101,40.740562,-73.95475,0,0,Driver Inattention/Distraction,4611474,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-07 12:30:00,BROOKLYN,11206,40.70489,-73.94617,0,0,Passing or Lane Usage Improper,4611938,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-07 12:53:00,BROOKLYN,11206,40.699406,-73.95338,0,0,Passing or Lane Usage Improper,4610901,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-07 18:04:00,BROOKLYN,11234,40.61317,-73.91737,0,0,Passing or Lane Usage Improper,4611062,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-07 18:15:00,BROOKLYN,11211,40.713398,-73.95641,1,0,Unsafe Speed,4611222,Motorcycle,Moving Violation,Spring,Evening,True
+2023-03-08 07:20:00,QUEENS,11373,40.741295,-73.88029,0,0,Backing Unsafely,4611088,Sedan,Moving Violation,Spring,Early Morning,True
+2023-03-08 14:30:00,BROOKLYN,11201,40.696198,-73.98877,1,0,Following Too Closely,4612507,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-08 15:00:00,QUEENS,11368,40.739788,-73.86612,0,0,Driver Inattention/Distraction,4611271,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-08 15:42:00,BROOKLYN,11234,40.634415,-73.92465,0,0,Unsafe Speed,4611240,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-08 16:00:00,BROOKLYN,11201,40.698246,-73.98055,1,0,Driver Inattention/Distraction,4611231,Chassis Cab,Driver Inattention,Spring,Evening,True
+2023-03-08 16:05:00,BROOKLYN,11207,40.667835,-73.89484,0,0,Failure to Yield Right-of-Way,4611678,Bus,Moving Violation,Spring,Evening,True
+2023-03-08 18:00:00,QUEENS,11373,40.739426,-73.88079,0,0,Passing Too Closely,4611272,Garbage or Refuse,Moving Violation,Spring,Evening,True
+2023-03-08 19:19:00,QUEENS,11101,40.75379,-73.91548,2,0,Passing or Lane Usage Improper,4611228,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,False
+2023-03-08 19:40:00,BROOKLYN,11211,40.704765,-73.95889,0,0,Passing Too Closely,4611260,Tractor Truck Diesel,Moving Violation,Spring,Evening,False
+2023-03-08 19:44:00,BROOKLYN,11207,40.661385,-73.8841,2,0,Driver Inattention/Distraction,4611683,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,False
+2023-03-09 01:32:00,QUEENS,11373,40.738117,-73.87357,0,0,Unsafe Speed,4611558,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-09 09:30:00,BROOKLYN,11211,40.70431,-73.955086,0,0,Driver Inattention/Distraction,4611512,Bus,Driver Inattention,Spring,Morning,False
+2023-03-09 10:35:00,QUEENS,11101,40.743114,-73.95608,0,0,Backing Unsafely,4611353,Sedan,Moving Violation,Spring,Morning,False
+2023-03-09 10:48:00,BROOKLYN,11236,40.633606,-73.91623,0,0,Driver Inattention/Distraction,4611782,Box Truck,Driver Inattention,Spring,Morning,False
+2023-03-09 10:50:00,BROOKLYN,11236,40.63496,-73.901024,0,0,Passing Too Closely,4611487,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-09 11:55:00,BROOKLYN,11234,40.62538,-73.92464,0,0,Driver Inattention/Distraction,4611389,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-09 12:15:00,BROOKLYN,11234,40.61909,-73.9153,0,0,Driver Inattention/Distraction,4611927,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-09 12:20:00,BROOKLYN,11211,40.713085,-73.936035,0,0,Failure to Yield Right-of-Way,4615103,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-09 12:20:00,QUEENS,11101,40.73555,-73.934784,0,0,Following Too Closely,4611876,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-09 12:30:00,BROOKLYN,11206,40.707027,-73.93975,0,0,Driver Inattention/Distraction,4614892,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-09 15:00:00,QUEENS,11373,40.734234,-73.86881,0,0,Driver Inattention/Distraction,4611557,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-09 16:45:00,QUEENS,11385,40.705,-73.91141,1,0,Passing or Lane Usage Improper,4612628,Bus,Moving Violation,Spring,Evening,True
+2023-03-09 17:15:00,BROOKLYN,11234,40.609947,-73.92227,0,0,Driver Inattention/Distraction,4611922,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-09 18:00:00,BROOKLYN,11201,40.69042,-73.978714,0,0,Driver Inattention/Distraction,4611554,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-09 19:50:00,QUEENS,11101,40.73764,-73.93502,0,0,Following Too Closely,4611919,PK,Moving Violation,Spring,Evening,False
+2023-03-09 20:42:00,QUEENS,11385,40.7134,-73.91403,1,0,Following Too Closely,4612199,Sedan,Moving Violation,Spring,Night,False
+2023-03-09 21:06:00,QUEENS,11101,40.74712,-73.94239,0,0,Driver Inattention/Distraction,4612556,Pick-up Truck,Driver Inattention,Spring,Night,False
+2023-03-09 21:35:00,BROOKLYN,11207,40.681114,-73.90571,0,0,Backing Unsafely,4613183,Sedan,Moving Violation,Spring,Night,False
+2023-03-10 00:01:00,BROOKLYN,11236,40.64954,-73.899475,0,0,Turning Improperly,4612332,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Late Night,False
+2023-03-10 03:10:00,BROOKLYN,11234,40.61222,-73.918846,0,0,Driver Inattention/Distraction,4613643,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-10 05:15:00,QUEENS,11101,40.74046,-73.93727,0,0,Passing or Lane Usage Improper,4612154,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,False
+2023-03-10 08:10:00,BROOKLYN,11201,40.689137,-73.990715,1,0,Driver Inattention/Distraction,4611981,Sedan,Driver Inattention,Spring,Morning,True
+2023-03-10 09:00:00,BROOKLYN,11206,40.700718,-73.929794,0,0,Passing Too Closely,4611816,Sedan,Moving Violation,Spring,Morning,True
+2023-03-10 09:00:00,QUEENS,11101,40.733166,-73.936844,0,0,Passing Too Closely,4611645,Sedan,Moving Violation,Spring,Morning,True
+2023-03-10 09:00:00,BROOKLYN,11206,40.697315,-73.932274,0,0,Reaction to Uninvolved Vehicle,4611814,Sedan,Driver Inattention,Spring,Morning,True
+2023-03-10 11:08:00,BROOKLYN,11234,40.62806,-73.92479,0,0,Driver Inattention/Distraction,4611936,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-10 11:15:00,BROOKLYN,11234,40.61219,-73.92323,0,0,Failure to Yield Right-of-Way,4611929,Sedan,Moving Violation,Spring,Morning,False
+2023-03-10 13:30:00,BROOKLYN,11207,40.6653,-73.89615,0,0,Driver Inattention/Distraction,4616297,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-10 13:57:00,BROOKLYN,11236,40.63145,-73.887085,0,0,Driver Inattention/Distraction,4611977,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-10 14:05:00,QUEENS,11373,40.74067,-73.868835,0,0,Backing Unsafely,4611775,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-10 15:06:00,BROOKLYN,11201,40.688858,-73.98374,1,0,Driver Inattention/Distraction,4611989,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-10 15:24:00,QUEENS,11373,40.735634,-73.87602,0,0,Passing or Lane Usage Improper,4611773,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-10 16:06:00,BROOKLYN,11236,40.64208,-73.91967,1,0,Driver Inattention/Distraction,4611920,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-10 16:25:00,QUEENS,11385,40.707848,-73.89725,0,0,Driver Inattention/Distraction,4615041,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-10 19:22:00,BROOKLYN,11234,40.60553,-73.92917,1,0,Failure to Yield Right-of-Way,4612504,Sedan,Moving Violation,Spring,Evening,False
+2023-03-10 19:25:00,QUEENS,11373,40.74229,-73.869484,1,0,Driver Inattention/Distraction,4611752,Sedan,Driver Inattention,Spring,Evening,False
+2023-03-10 19:30:00,BROOKLYN,11206,40.703053,-73.942505,0,0,Failure to Yield Right-of-Way,4611732,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,False
+2023-03-10 19:40:00,BROOKLYN,11234,40.616295,-73.92991,1,0,Failure to Yield Right-of-Way,4613478,Tow Truck / Wrecker,Moving Violation,Spring,Evening,False
+2023-03-10 20:00:00,BROOKLYN,11234,40.636524,-73.92103,1,0,Driver Inattention/Distraction,4611941,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-10 22:12:00,BROOKLYN,11234,40.625824,-73.92762,2,0,Failure to Yield Right-of-Way,4612444,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Night,False
+2023-03-10 22:56:00,BROOKLYN,11207,40.67826,-73.897934,0,0,Passing or Lane Usage Improper,4612473,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Night,False
+2023-03-11 03:25:00,QUEENS,11101,40.754635,-73.92252,1,0,Driver Inattention/Distraction,4612975,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-11 09:45:00,BROOKLYN,11211,40.717575,-73.93865,0,0,Failure to Yield Right-of-Way,4613962,Sedan,Moving Violation,Spring,Morning,False
+2023-03-11 10:00:00,BROOKLYN,11211,40.707222,-73.95447,0,0,Passing Too Closely,4611857,Sedan,Moving Violation,Spring,Morning,False
+2023-03-11 11:50:00,QUEENS,11101,40.753635,-73.91893,1,0,Failure to Yield Right-of-Way,4612055,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-11 12:48:00,QUEENS,11385,40.697136,-73.89372,0,0,Following Too Closely,4612176,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-11 16:30:00,BROOKLYN,11211,40.7099,-73.95743,1,0,Passing or Lane Usage Improper,4612848,Moped,Moving Violation,Spring,Evening,True
+2023-03-11 16:42:00,BROOKLYN,11236,40.648106,-73.91852,2,0,Failure to Yield Right-of-Way,4613106,Sedan,Moving Violation,Spring,Evening,True
+2023-03-11 21:40:00,QUEENS,11385,40.704357,-73.88769,1,0,Failure to Yield Right-of-Way,4612066,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Night,False
+2023-03-11 21:50:00,BROOKLYN,11207,40.665714,-73.8876,1,0,Failure to Yield Right-of-Way,4612479,Sedan,Moving Violation,Spring,Night,False
+2023-03-11 22:11:00,QUEENS,11373,40.73274,-73.86836,0,0,Driver Inattention/Distraction,4611942,Sedan,Driver Inattention,Spring,Night,False
+2023-03-12 04:49:00,BROOKLYN,11211,40.714066,-73.95163,0,0,Passing or Lane Usage Improper,4612845,Taxi,Moving Violation,Spring,Early Morning,False
+2023-03-12 06:00:00,BROOKLYN,11236,40.63145,-73.887085,0,0,Driver Inexperience,4612330,Sedan,Driver Inattention,Spring,Early Morning,True
+2023-03-12 06:05:00,QUEENS,11101,40.75203,-73.92915,2,0,Driver Inattention/Distraction,4612058,Sedan,Driver Inattention,Spring,Early Morning,True
+2023-03-12 07:34:00,BROOKLYN,11234,40.620937,-73.92225,0,0,Driver Inattention/Distraction,4611933,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Early Morning,True
+2023-03-12 09:47:00,BROOKLYN,11201,40.69981,-73.984276,1,0,Backing Unsafely,4613423,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-12 11:50:00,BROOKLYN,11211,40.711323,-73.94725,1,0,Failure to Yield Right-of-Way,4612861,Motorcycle,Moving Violation,Spring,Morning,False
+2023-03-12 12:00:00,QUEENS,11373,40.74751,-73.87679,1,0,Driver Inattention/Distraction,4613845,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-12 14:11:00,BROOKLYN,11234,40.61146,-73.92437,0,0,Driver Inattention/Distraction,4611921,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-12 14:55:00,BROOKLYN,11201,40.689583,-73.99202,3,0,Driver Inexperience,4613046,Van,Driver Inattention,Spring,Afternoon,False
+2023-03-12 17:36:00,BROOKLYN,11236,40.637505,-73.914185,1,0,Failure to Yield Right-of-Way,4611979,Sedan,Moving Violation,Spring,Evening,True
+2023-03-12 18:15:00,BROOKLYN,11211,40.710716,-73.95359,1,0,Following Too Closely,4612015,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-12 19:36:00,BROOKLYN,11234,40.60981,-73.92251,3,0,Turning Improperly,4612029,Sedan,Moving Violation,Spring,Evening,False
+2023-03-13 00:00:00,QUEENS,11101,40.740276,-73.92782,1,0,Driver Inattention/Distraction,4612557,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Late Night,False
+2023-03-13 03:35:00,QUEENS,11368,40.753735,-73.86025,2,0,Driver Inattention/Distraction,4613064,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-13 04:25:00,QUEENS,11373,40.743755,-73.87926,2,0,Traffic Control Disregarded,4612531,Sedan,Moving Violation,Spring,Early Morning,False
+2023-03-13 07:40:00,BROOKLYN,11234,40.63556,-73.922844,3,0,Driver Inattention/Distraction,4613644,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Early Morning,True
+2023-03-13 08:00:00,QUEENS,11373,40.745728,-73.886215,2,0,Failure to Yield Right-of-Way,4612533,Bus,Moving Violation,Spring,Morning,True
+2023-03-13 09:00:00,BROOKLYN,11207,40.682938,-73.91053,0,0,Driver Inattention/Distraction,4612398,Van,Driver Inattention,Spring,Morning,True
+2023-03-13 10:28:00,BROOKLYN,11211,40.71558,-73.960144,0,0,Following Too Closely,4613512,Sedan,Moving Violation,Spring,Morning,False
+2023-03-13 10:50:00,QUEENS,11385,40.69928,-73.90479,1,0,Traffic Control Disregarded,4613280,Sedan,Moving Violation,Spring,Morning,False
+2023-03-13 11:56:00,QUEENS,11101,40.755013,-73.93434,1,0,Following Too Closely,4614568,Sedan,Moving Violation,Spring,Morning,False
+2023-03-13 12:28:00,BROOKLYN,11236,40.63839,-73.89576,0,0,Passing or Lane Usage Improper,4613078,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-13 14:55:00,BROOKLYN,11206,40.704563,-73.94867,0,0,Passing or Lane Usage Improper,4612865,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-13 17:20:00,BROOKLYN,11207,40.665607,-73.899086,1,0,Driver Inattention/Distraction,4612470,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-13 17:55:00,QUEENS,11373,40.739113,-73.88975,0,0,Driver Inattention/Distraction,4612903,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-13 18:23:00,QUEENS,11368,40.757824,-73.86101,1,0,Following Too Closely,4613070,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-13 19:36:00,BROOKLYN,11236,40.6338,-73.8897,1,0,Driver Inattention/Distraction,4613622,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,False
+2023-03-13 21:08:00,QUEENS,11368,40.75276,-73.86319,3,0,Driver Inattention/Distraction,4613071,Taxi,Driver Inattention,Spring,Night,False
+2023-03-13 23:11:00,BROOKLYN,11234,40.609745,-73.93135,1,0,Failure to Yield Right-of-Way,4612501,Bus,Moving Violation,Spring,Night,False
+2023-03-14 00:00:00,BROOKLYN,11206,40.70109,-73.94502,1,0,Driver Inattention/Distraction,4612850,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-14 00:15:00,QUEENS,11368,40.749374,-73.86752,0,0,Traffic Control Disregarded,4613065,AMBULENCE,Moving Violation,Spring,Late Night,False
+2023-03-14 01:30:00,QUEENS,11385,40.706345,-73.91122,0,0,Aggressive Driving/Road Rage,4613217,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Late Night,False
+2023-03-14 01:35:00,BROOKLYN,11201,40.69049,-73.978745,0,0,Failure to Yield Right-of-Way,4612839,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-14 09:30:00,BROOKLYN,11206,40.71035,-73.9497,0,0,Passing Too Closely,4612847,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-14 10:27:00,BROOKLYN,11211,40.704433,-73.95523,0,0,Driver Inattention/Distraction,4615104,Pick-up Truck,Driver Inattention,Spring,Morning,False
+2023-03-14 11:00:00,QUEENS,11101,40.742714,-73.95029,0,0,Driver Inattention/Distraction,4612673,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-14 11:30:00,QUEENS,11373,40.743973,-73.8851,1,0,Failure to Yield Right-of-Way,4613960,E-Bike,Moving Violation,Spring,Morning,False
+2023-03-14 12:00:00,QUEENS,11385,40.712902,-73.90608,0,0,Passing or Lane Usage Improper,4616301,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-14 12:10:00,BROOKLYN,11236,40.64,-73.90194,1,0,Failure to Yield Right-of-Way,4612771,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-14 15:40:00,QUEENS,11385,40.702595,-73.8553,3,0,Turning Improperly,4613145,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-14 16:50:00,BROOKLYN,11201,40.697887,-73.99461,0,0,Unsafe Speed,4612818,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-14 18:35:00,BROOKLYN,11207,40.6646,-73.89502,0,0,Aggressive Driving/Road Rage,4612802,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-14 20:27:00,BROOKLYN,11207,40.660324,-73.89411,0,0,Driver Inattention/Distraction,4613011,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-14 21:10:00,QUEENS,11373,40.73648,-73.874275,1,0,Driver Inattention/Distraction,4612863,Sedan,Driver Inattention,Spring,Night,False
+2023-03-14 21:28:00,BROOKLYN,11236,40.64275,-73.90378,2,0,Failure to Yield Right-of-Way,4612837,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Night,False
+2023-03-15 04:03:00,BROOKLYN,11211,40.71359,-73.9349,0,0,Driver Inattention/Distraction,4612867,Chassis Cab,Driver Inattention,Spring,Early Morning,False
+2023-03-15 04:30:00,BROOKLYN,11207,40.680664,-73.902626,1,0,Driver Inexperience,4613184,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Early Morning,False
+2023-03-15 05:36:00,BROOKLYN,11234,40.630688,-73.92521,1,0,Traffic Control Disregarded,4613167,Pick-up Truck,Moving Violation,Spring,Early Morning,False
+2023-03-15 08:08:00,BROOKLYN,11206,40.69864,-73.93819,0,0,Passing or Lane Usage Improper,4613361,Sedan,Moving Violation,Spring,Morning,True
+2023-03-15 08:14:00,BROOKLYN,11206,40.69505,-73.952,0,0,Passing or Lane Usage Improper,4613865,Sedan,Moving Violation,Spring,Morning,True
+2023-03-15 09:45:00,BROOKLYN,11201,40.69365,-73.98333,0,0,Unsafe Lane Changing,4613060,Box Truck,Moving Violation,Spring,Morning,False
+2023-03-15 11:00:00,QUEENS,11368,40.75168,-73.85553,0,0,Backing Unsafely,4613072,Sedan,Moving Violation,Spring,Morning,False
+2023-03-15 11:45:00,QUEENS,11368,40.751545,-73.87085,1,0,Following Too Closely,4613803,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-15 13:20:00,BROOKLYN,11207,40.67385,-73.90024,0,0,Following Too Closely,4613292,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-15 13:30:00,BROOKLYN,11234,40.615433,-73.91388,0,0,Driver Inattention/Distraction,4613168,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-15 15:36:00,BROOKLYN,11206,40.696686,-73.9378,1,0,Following Too Closely,4615952,E-Bike,Moving Violation,Spring,Afternoon,False
+2023-03-15 15:55:00,QUEENS,11368,40.744087,-73.85475,0,0,Driver Inattention/Distraction,4613228,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-15 16:39:00,BROOKLYN,11206,40.711082,-73.93493,1,0,Reaction to Uninvolved Vehicle,4613234,Van,Driver Inattention,Spring,Evening,True
+2023-03-15 16:40:00,BROOKLYN,11207,40.65892,-73.889824,1,0,Driver Inattention/Distraction,4613293,Box Truck,Driver Inattention,Spring,Evening,True
+2023-03-15 16:55:00,QUEENS,11373,40.73664,-73.86584,1,0,Failure to Yield Right-of-Way,4613229,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-15 17:10:00,BROOKLYN,11201,40.68545,-73.994415,0,0,Driver Inattention/Distraction,4613104,Box Truck,Driver Inattention,Spring,Evening,True
+2023-03-15 17:20:00,BROOKLYN,11207,40.689598,-73.91025,1,0,Traffic Control Disregarded,4613187,Sedan,Moving Violation,Spring,Evening,True
+2023-03-15 19:20:00,BROOKLYN,11207,40.657314,-73.88864,1,0,Driver Inattention/Distraction,4613286,Sedan,Driver Inattention,Spring,Evening,False
+2023-03-15 21:30:00,BROOKLYN,11234,40.615383,-73.92891,0,0,Failure to Yield Right-of-Way,4613170,Sedan,Moving Violation,Spring,Night,False
+2023-03-15 21:54:00,BROOKLYN,11211,40.714912,-73.94784,1,0,Driver Inattention/Distraction,4613961,Sedan,Driver Inattention,Spring,Night,False
+2023-03-15 22:20:00,BROOKLYN,11207,40.67816,-73.897484,1,0,Traffic Control Disregarded,4613287,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Night,False
+2023-03-16 01:09:00,BROOKLYN,11211,40.704807,-73.96034,0,0,Unsafe Speed,4613434,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-16 02:15:00,BROOKLYN,11207,40.672844,-73.88943,2,0,Driver Inexperience,4616358,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-16 07:03:00,BROOKLYN,11207,40.659275,-73.889,5,0,Turning Improperly,4613291,Pick-up Truck,Moving Violation,Spring,Early Morning,True
+2023-03-16 09:59:00,QUEENS,11101,40.739674,-73.934586,1,0,Driver Inattention/Distraction,4614800,Motorcycle,Driver Inattention,Spring,Morning,False
+2023-03-16 17:28:00,QUEENS,11368,40.74047,-73.86442,1,0,Driver Inattention/Distraction,4614558,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-16 18:39:00,QUEENS,11101,40.7566,-73.92072,1,0,Unsafe Speed,4613637,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-16 19:20:00,QUEENS,11385,40.712948,-73.90693,0,0,Driver Inattention/Distraction,4614038,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,False
+2023-03-16 20:50:00,BROOKLYN,11234,40.60981,-73.92251,0,0,Failure to Yield Right-of-Way,4613486,Sedan,Moving Violation,Spring,Night,False
+2023-03-17 00:40:00,QUEENS,11385,40.706722,-73.89295,0,0,Driver Inattention/Distraction,4613504,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-17 03:20:00,BROOKLYN,11201,40.69613,-73.987114,1,0,Failure to Yield Right-of-Way,4613698,Moped,Moving Violation,Spring,Late Night,False
+2023-03-17 05:00:00,BROOKLYN,11206,40.707012,-73.93871,0,0,Driver Inattention/Distraction,4615105,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Early Morning,False
+2023-03-17 06:22:00,BROOKLYN,11236,40.6338,-73.8897,1,0,Failure to Yield Right-of-Way,4614731,Sedan,Moving Violation,Spring,Early Morning,True
+2023-03-17 07:56:00,BROOKLYN,11207,40.65766,-73.89705,1,0,Unsafe Speed,4614772,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,True
+2023-03-17 09:30:00,BROOKLYN,11236,40.64366,-73.90067,0,0,Following Too Closely,4614930,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-17 10:50:00,QUEENS,11101,40.748066,-73.93974,0,0,Driver Inattention/Distraction,4615013,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-17 11:36:00,BROOKLYN,11211,40.70591,-73.951096,0,0,Passing Too Closely,4613788,Tractor Truck Diesel,Moving Violation,Spring,Morning,False
+2023-03-17 13:29:00,BROOKLYN,11236,40.641174,-73.89143,0,0,Passing or Lane Usage Improper,4613922,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-17 14:43:00,BROOKLYN,11234,40.635185,-73.92862,0,0,Following Too Closely,4613626,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-17 15:50:00,QUEENS,11385,40.704742,-73.86016,1,0,Failure to Yield Right-of-Way,4613931,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-17 17:45:00,BROOKLYN,11236,40.631092,-73.89835,0,0,Failure to Yield Right-of-Way,4613923,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-17 19:00:00,BROOKLYN,11236,40.647255,-73.89072,2,0,Turning Improperly,4613623,Sedan,Moving Violation,Spring,Evening,True
+2023-03-17 20:20:00,BROOKLYN,11234,40.62317,-73.935814,0,0,Driver Inattention/Distraction,4613797,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-17 20:58:00,BROOKLYN,11236,40.655685,-73.899414,1,0,Driver Inattention/Distraction,4613898,Sedan,Driver Inattention,Spring,Night,False
+2023-03-18 00:00:00,BROOKLYN,11206,40.69897,-73.95702,0,0,Driver Inattention/Distraction,4615681,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-18 01:33:00,BROOKLYN,11207,40.676598,-73.89038,0,0,Driver Inattention/Distraction,4613712,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-18 03:30:00,QUEENS,11368,40.74894,-73.85448,0,0,Backing Unsafely,4613596,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Late Night,False
+2023-03-18 08:00:00,QUEENS,11101,40.742336,-73.929306,0,0,Passing or Lane Usage Improper,4613703,Sedan,Moving Violation,Spring,Morning,True
+2023-03-18 09:10:00,BROOKLYN,11211,40.704765,-73.95889,0,0,Driver Inattention/Distraction,4615106,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-18 14:05:00,QUEENS,11385,40.707287,-73.89644,0,0,Passing Too Closely,4613928,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-18 14:10:00,BROOKLYN,11201,40.70206,-73.99262,1,0,Driver Inattention/Distraction,4615531,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-18 14:40:00,BROOKLYN,11234,40.615337,-73.94008,1,0,Failure to Yield Right-of-Way,4614209,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-18 16:45:00,QUEENS,11368,40.758305,-73.85561,0,0,Following Too Closely,4613795,Sedan,Moving Violation,Spring,Evening,True
+2023-03-18 17:20:00,BROOKLYN,11234,40.63057,-73.92712,0,0,Unsafe Speed,4614862,Sedan,Moving Violation,Spring,Evening,True
+2023-03-18 19:22:00,BROOKLYN,11234,40.616276,-73.93245,0,0,Driver Inattention/Distraction,4614863,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,False
+2023-03-18 20:50:00,BROOKLYN,11211,40.714382,-73.93345,1,0,Traffic Control Disregarded,4613790,Sedan,Moving Violation,Spring,Night,False
+2023-03-18 21:40:00,QUEENS,11385,40.694107,-73.89737,0,0,Passing or Lane Usage Improper,4613932,Sedan,Moving Violation,Spring,Night,False
+2023-03-18 22:00:00,BROOKLYN,11211,40.712055,-73.952736,0,0,Driver Inattention/Distraction,4615680,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-19 03:25:00,BROOKLYN,11211,40.713814,-73.937355,0,0,Following Too Closely,4614893,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Late Night,False
+2023-03-19 04:30:00,QUEENS,11385,40.711452,-73.91987,0,0,Driver Inattention/Distraction,4615050,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Early Morning,False
+2023-03-19 05:40:00,QUEENS,11373,40.745384,-73.88247,0,0,Passing Too Closely,4613844,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,False
+2023-03-19 14:08:00,BROOKLYN,11207,40.68238,-73.90565,0,0,Backing Unsafely,4614179,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-19 14:15:00,BROOKLYN,11234,40.633217,-73.92235,0,0,Failure to Yield Right-of-Way,4613955,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-19 14:50:00,BROOKLYN,11207,40.67148,-73.898674,2,0,Driver Inattention/Distraction,4613976,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-19 15:20:00,QUEENS,11368,40.755337,-73.843254,1,0,Driver Inattention/Distraction,4615125,E-Bike,Driver Inattention,Spring,Afternoon,False
+2023-03-19 15:30:00,QUEENS,11385,40.705578,-73.87095,0,0,Unsafe Speed,4615051,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-19 16:02:00,BROOKLYN,11236,40.646572,-73.89617,0,0,Failure to Yield Right-of-Way,4613921,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-19 16:25:00,BROOKLYN,11211,40.714066,-73.94938,2,0,Following Too Closely,4615645,Sedan,Moving Violation,Spring,Evening,True
+2023-03-19 21:14:00,QUEENS,11368,40.753944,-73.859886,0,0,Passing Too Closely,4614005,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Night,False
+2023-03-19 21:15:00,QUEENS,11368,40.75087,-73.87043,0,0,Driver Inexperience,4614057,Sedan,Driver Inattention,Spring,Night,False
+2023-03-20 04:00:00,BROOKLYN,11211,40.71437,-73.946075,0,0,Driver Inattention/Distraction,4614300,Sedan,Driver Inattention,Spring,Early Morning,False
+2023-03-20 06:00:00,QUEENS,11385,40.705193,-73.90288,0,0,Passing Too Closely,4614378,Sedan,Moving Violation,Spring,Early Morning,True
+2023-03-20 06:40:00,BROOKLYN,11234,40.632065,-73.91861,1,0,Driver Inattention/Distraction,4614207,Bus,Driver Inattention,Spring,Early Morning,True
+2023-03-20 09:00:00,QUEENS,11368,40.756725,-73.87035,0,0,Failure to Yield Right-of-Way,4614759,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,True
+2023-03-20 09:30:00,BROOKLYN,11211,40.711723,-73.961205,0,0,Following Too Closely,4616242,Sedan,Moving Violation,Spring,Morning,False
+2023-03-20 09:30:00,QUEENS,11101,40.74547,-73.94655,0,0,Failure to Yield Right-of-Way,4614715,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-20 10:40:00,QUEENS,11373,40.746815,-73.870285,0,0,Driver Inattention/Distraction,4614225,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-20 10:50:00,QUEENS,11385,40.699883,-73.90831,1,0,Following Too Closely,4614350,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-20 11:05:00,BROOKLYN,11201,40.687992,-73.98962,1,0,Driver Inattention/Distraction,4614445,Tanker,Driver Inattention,Spring,Morning,False
+2023-03-20 13:12:00,BROOKLYN,11234,40.61771,-73.92382,0,0,Driver Inattention/Distraction,4614371,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-20 14:23:00,BROOKLYN,11211,40.711323,-73.94725,1,0,Failure to Yield Right-of-Way,4614844,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-20 15:12:00,BROOKLYN,11206,40.708633,-73.93734,0,0,Failure to Yield Right-of-Way,4614923,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-20 15:34:00,BROOKLYN,11236,40.64275,-73.90378,0,0,Driver Inattention/Distraction,4614206,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-20 16:00:00,QUEENS,11373,40.743267,-73.874664,0,0,Driver Inattention/Distraction,4614222,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-20 17:00:00,QUEENS,11385,40.712715,-73.911995,0,0,Driver Inattention/Distraction,4615919,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-20 17:25:00,BROOKLYN,11234,40.6082,-73.920715,0,0,Driver Inattention/Distraction,4615494,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-20 19:10:00,QUEENS,11373,40.740532,-73.87635,0,0,Driver Inattention/Distraction,4615330,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,False
+2023-03-20 21:50:00,BROOKLYN,11236,40.63484,-73.904976,1,0,Driver Inattention/Distraction,4614256,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-20 22:02:00,QUEENS,11385,40.712696,-73.900604,0,0,Failure to Yield Right-of-Way,4615097,Sedan,Moving Violation,Spring,Night,False
+2023-03-20 22:45:00,BROOKLYN,11207,40.655132,-73.88917,0,0,Traffic Control Disregarded,4614502,Sedan,Moving Violation,Spring,Night,False
+2023-03-21 02:00:00,BROOKLYN,11234,40.63336,-73.92928,0,0,Driver Inattention/Distraction,4614263,Sedan,Driver Inattention,Spring,Late Night,False
+2023-03-21 06:30:00,QUEENS,11101,40.747894,-73.94023,0,0,Driver Inexperience,4614707,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Early Morning,True
+2023-03-21 07:33:00,QUEENS,11101,40.75204,-73.92875,1,0,Unsafe Speed,4614573,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,True
+2023-03-21 07:45:00,BROOKLYN,11236,40.633606,-73.91623,2,0,Following Too Closely,4614345,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,True
+2023-03-21 08:26:00,BROOKLYN,11234,40.616608,-73.933784,0,0,Driver Inattention/Distraction,4614861,Bus,Driver Inattention,Spring,Morning,True
+2023-03-21 08:32:00,BROOKLYN,11236,40.649895,-73.90762,0,0,Passing or Lane Usage Improper,4614480,Sedan,Moving Violation,Spring,Morning,True
+2023-03-21 09:15:00,BROOKLYN,11236,40.640713,-73.89215,0,0,Driver Inattention/Distraction,4614479,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-21 09:50:00,QUEENS,11101,40.74188,-73.9498,0,0,Failure to Yield Right-of-Way,4615641,Box Truck,Moving Violation,Spring,Morning,False
+2023-03-21 10:16:00,BROOKLYN,11236,40.646797,-73.89579,0,0,Driver Inattention/Distraction,4614481,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-21 10:30:00,BROOKLYN,11207,40.66545,-73.88939,1,0,Backing Unsafely,4614775,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-21 11:50:00,QUEENS,11385,40.711002,-73.90406,0,0,Passing Too Closely,4615052,Sedan,Moving Violation,Spring,Morning,False
+2023-03-21 11:53:00,BROOKLYN,11201,40.68978,-73.98139,0,0,Driver Inexperience,4614461,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-21 12:40:00,QUEENS,11385,40.70636,-73.905266,0,0,Failure to Yield Right-of-Way,4615039,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-21 13:00:00,QUEENS,11373,40.73664,-73.86584,0,0,Failure to Yield Right-of-Way,4614562,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-21 13:22:00,QUEENS,11373,40.746494,-73.88375,0,0,Driver Inattention/Distraction,4614556,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-21 13:35:00,BROOKLYN,11201,40.696033,-73.984535,0,0,Failure to Yield Right-of-Way,4615942,Tractor Truck Diesel,Moving Violation,Spring,Afternoon,False
+2023-03-21 22:00:00,BROOKLYN,11234,40.625824,-73.92762,4,0,Unsafe Speed,4614546,Sedan,Moving Violation,Spring,Night,False
+2023-03-21 23:50:00,BROOKLYN,11234,40.651707,-73.86579,1,0,Unsafe Speed,4614770,Sedan,Moving Violation,Spring,Night,False
+2023-03-22 07:53:00,BROOKLYN,11236,40.641945,-73.916626,2,0,Passing Too Closely,4614753,Street Swe,Moving Violation,Spring,Early Morning,True
+2023-03-22 08:15:00,QUEENS,11368,40.76093,-73.84064,1,0,Driver Inexperience,4615075,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,True
+2023-03-22 09:05:00,BROOKLYN,11207,40.671318,-73.890884,0,0,Following Too Closely,4614773,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-22 09:13:00,BROOKLYN,11236,40.63752,-73.91906,0,0,Following Too Closely,4614726,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-22 09:30:00,BROOKLYN,11211,40.716938,-73.94818,0,0,Driver Inattention/Distraction,4615639,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-22 09:30:00,BROOKLYN,11211,40.71726,-73.94583,0,0,Backing Unsafely,4615646,Sedan,Moving Violation,Spring,Morning,False
+2023-03-22 10:08:00,BROOKLYN,11206,40.701027,-73.94813,1,0,Aggressive Driving/Road Rage,4615677,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-22 13:00:00,BROOKLYN,11236,40.631783,-73.8903,0,0,Following Too Closely,4614752,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-22 13:00:00,BROOKLYN,11206,40.69309,-73.94296,1,0,Passing or Lane Usage Improper,4615349,Bike,Moving Violation,Spring,Afternoon,False
+2023-03-22 14:15:00,BROOKLYN,11211,40.704662,-73.960526,0,0,Driver Inattention/Distraction,4615679,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Afternoon,False
+2023-03-22 17:15:00,BROOKLYN,11207,40.65718,-73.88898,0,0,Driver Inattention/Distraction,4614776,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-22 18:28:00,QUEENS,11373,40.73599,-73.86551,0,0,Driver Inattention/Distraction,4615076,Bike,Driver Inattention,Spring,Evening,True
+2023-03-22 19:53:00,QUEENS,11373,40.743973,-73.8851,1,0,Failure to Yield Right-of-Way,4615077,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,False
+2023-03-22 20:00:00,QUEENS,11101,40.7448,-73.953415,1,0,Driver Inattention/Distraction,4614802,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-22 22:00:00,QUEENS,11373,40.733498,-73.87038,0,0,Driver Inattention/Distraction,4615087,Sedan,Driver Inattention,Spring,Night,False
+2023-03-23 00:48:00,BROOKLYN,11207,40.677155,-73.88773,0,0,Turning Improperly,4614918,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-23 01:10:00,BROOKLYN,11207,40.673378,-73.88585,0,0,Unsafe Speed,4614920,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Late Night,False
+2023-03-23 06:05:00,BROOKLYN,11211,40.714066,-73.94938,1,0,Failure to Yield Right-of-Way,4615636,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,True
+2023-03-23 08:55:00,BROOKLYN,11206,40.69979,-73.950096,0,0,Failure to Yield Right-of-Way,4614890,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,True
+2023-03-23 09:30:00,QUEENS,11373,40.732395,-73.87644,0,0,Passing or Lane Usage Improper,4615088,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-23 10:44:00,BROOKLYN,11236,40.644196,-73.91295,0,0,Passing Too Closely,4614925,Sedan,Moving Violation,Spring,Morning,False
+2023-03-23 12:33:00,BROOKLYN,11201,40.692024,-73.9818,0,0,Driver Inattention/Distraction,4615580,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-23 12:40:00,BROOKLYN,11201,40.688416,-73.98459,1,0,Driver Inattention/Distraction,4615066,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-23 14:32:00,QUEENS,11373,40.74192,-73.87445,1,0,Following Too Closely,4615334,E-Scooter,Moving Violation,Spring,Afternoon,False
+2023-03-23 15:18:00,QUEENS,11385,40.704742,-73.86016,1,0,Failure to Yield Right-of-Way,4615057,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-23 17:15:00,BROOKLYN,11206,40.70982,-73.9402,1,0,Driver Inattention/Distraction,4615673,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-23 18:55:00,BROOKLYN,11207,40.67562,-73.88826,0,0,Traffic Control Disregarded,4615527,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-23 19:05:00,BROOKLYN,11234,40.609947,-73.92227,0,0,Passing or Lane Usage Improper,4615489,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,False
+2023-03-23 20:26:00,QUEENS,11101,40.751198,-73.93441,1,0,Following Too Closely,4615064,Motorcycle,Moving Violation,Spring,Night,False
+2023-03-23 21:10:00,QUEENS,11368,40.751007,-73.870514,1,0,Backing Unsafely,4615201,Sedan,Moving Violation,Spring,Night,False
+2023-03-24 01:40:00,BROOKLYN,11207,40.666256,-73.900215,0,0,Unsafe Speed,4615547,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-24 07:00:00,BROOKLYN,11234,40.60553,-73.92917,1,0,Turning Improperly,4615168,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,True
+2023-03-24 08:10:00,BROOKLYN,11211,40.711704,-73.96028,1,0,Driver Inattention/Distraction,4615676,Sedan,Driver Inattention,Spring,Morning,True
+2023-03-24 08:15:00,BROOKLYN,11234,40.61258,-73.9183,0,0,Passing or Lane Usage Improper,4615122,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,True
+2023-03-24 09:39:00,BROOKLYN,11206,40.698612,-73.94063,0,0,Driver Inattention/Distraction,4615945,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-24 10:00:00,QUEENS,11101,40.730694,-73.93384,1,0,Driver Inattention/Distraction,4615413,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-24 12:00:00,BROOKLYN,11206,40.697315,-73.932274,1,0,Failure to Yield Right-of-Way,4615450,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-24 14:14:00,BROOKLYN,11211,40.717365,-73.9561,0,0,Passing Too Closely,4615637,Tractor Truck Diesel,Moving Violation,Spring,Afternoon,False
+2023-03-24 14:15:00,BROOKLYN,11234,40.625683,-73.93344,1,0,Aggressive Driving/Road Rage,4616013,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-24 15:50:00,BROOKLYN,11201,40.700768,-73.990944,1,0,Unsafe Lane Changing,4615567,Box Truck,Moving Violation,Spring,Afternoon,False
+2023-03-24 16:00:00,BROOKLYN,11206,40.701027,-73.94813,0,0,Driver Inexperience,4615915,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-24 16:00:00,BROOKLYN,11234,40.626457,-73.918,0,0,Passing or Lane Usage Improper,4615493,Sedan,Moving Violation,Spring,Evening,True
+2023-03-24 17:40:00,BROOKLYN,11207,40.663296,-73.88979,1,0,Driver Inattention/Distraction,4615548,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-24 18:00:00,BROOKLYN,11206,40.711643,-73.94392,0,0,Following Too Closely,4615917,Armored Truck,Moving Violation,Spring,Evening,True
+2023-03-24 19:30:00,BROOKLYN,11236,40.6408,-73.904305,2,0,Turning Improperly,4615258,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,False
+2023-03-24 20:20:00,QUEENS,11385,40.703712,-73.90677,1,0,Driver Inattention/Distraction,4615706,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-24 20:50:00,QUEENS,11368,40.738373,-73.86008,0,0,Driver Inattention/Distraction,4615329,Sedan,Driver Inattention,Spring,Night,False
+2023-03-24 21:00:00,QUEENS,11368,40.75337,-73.85302,0,0,Driver Inattention/Distraction,4616365,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-24 21:30:00,QUEENS,11101,40.744026,-73.92616,1,0,Driver Inattention/Distraction,4615402,Sedan,Driver Inattention,Spring,Night,False
+2023-03-24 21:49:00,BROOKLYN,11234,40.62788,-73.93251,0,0,Driver Inattention/Distraction,4615480,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-24 22:00:00,QUEENS,11385,40.71045,-73.90704,0,0,Driver Inexperience,4615712,Sedan,Driver Inattention,Spring,Night,False
+2023-03-24 22:10:00,QUEENS,11373,40.74029,-73.88809,0,0,Driver Inattention/Distraction,4615274,Sedan,Driver Inattention,Spring,Night,False
+2023-03-25 04:30:00,BROOKLYN,11234,40.626183,-73.933,0,0,Driver Inattention/Distraction,4615490,Sedan,Driver Inattention,Spring,Early Morning,False
+2023-03-25 04:40:00,QUEENS,11368,40.75206,-73.85426,0,0,Passing Too Closely,4615561,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,False
+2023-03-25 07:20:00,QUEENS,11101,40.73764,-73.93502,1,0,Driver Inattention/Distraction,4615380,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Early Morning,True
+2023-03-25 08:05:00,QUEENS,11368,40.74511,-73.86432,0,0,Driver Inattention/Distraction,4615328,Bike,Driver Inattention,Spring,Morning,True
+2023-03-25 08:06:00,BROOKLYN,11234,40.61909,-73.9153,0,0,Unsafe Speed,4615487,Pick-up Truck,Moving Violation,Spring,Morning,True
+2023-03-25 13:10:00,BROOKLYN,11236,40.643143,-73.901474,0,0,Driver Inexperience,4615365,Sedan,Driver Inattention,Spring,Afternoon,False
+2023-03-25 16:40:00,BROOKLYN,11236,40.64215,-73.891235,0,0,Driver Inattention/Distraction,4615367,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-25 17:21:00,BROOKLYN,11236,40.645985,-73.91279,0,0,Driver Inattention/Distraction,4615366,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Evening,True
+2023-03-25 19:30:00,BROOKLYN,11211,40.716213,-73.95662,1,0,Driver Inattention/Distraction,4615649,Sedan,Driver Inattention,Spring,Evening,False
+2023-03-25 19:59:00,BROOKLYN,11234,40.60981,-73.92251,6,0,Failure to Yield Right-of-Way,4615488,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,False
+2023-03-25 21:59:00,BROOKLYN,11201,40.689922,-73.98352,0,0,Driver Inattention/Distraction,4615585,Sedan,Driver Inattention,Spring,Night,False
+2023-03-26 00:35:00,BROOKLYN,11206,40.710587,-73.94711,0,0,Passing Too Closely,4616251,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-26 00:55:00,BROOKLYN,11207,40.666294,-73.89445,0,0,Passing Too Closely,4615591,Sedan,Moving Violation,Spring,Late Night,False
+2023-03-26 05:45:00,BROOKLYN,11236,40.6322,-73.896645,0,0,Passing Too Closely,4615586,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Early Morning,False
+2023-03-26 09:00:00,QUEENS,11368,40.74394,-73.85767,0,0,Driver Inattention/Distraction,4615796,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,True
+2023-03-26 09:45:00,BROOKLYN,11211,40.710785,-73.95995,1,0,Driver Inattention/Distraction,4615688,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-26 12:30:00,BROOKLYN,11201,40.693512,-73.97998,0,0,Failure to Yield Right-of-Way,4615623,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-26 12:30:00,BROOKLYN,11236,40.6338,-73.8897,0,0,Failure to Yield Right-of-Way,4615584,Bus,Moving Violation,Spring,Afternoon,False
+2023-03-26 13:04:00,BROOKLYN,11201,40.7001,-73.98835,0,0,Passing or Lane Usage Improper,4615592,Sedan,Moving Violation,Spring,Afternoon,False
+2023-03-26 17:20:00,BROOKLYN,11207,40.672672,-73.89066,0,0,Failure to Yield Right-of-Way,4615669,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-26 18:01:00,BROOKLYN,11234,40.61632,-73.89986,0,0,Unsafe Speed,4616015,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Evening,True
+2023-03-26 20:15:00,BROOKLYN,11201,40.688156,-73.99002,0,0,Driver Inexperience,4616042,Sedan,Driver Inattention,Spring,Night,False
+2023-03-26 21:00:00,BROOKLYN,11211,40.710262,-73.953865,0,0,Driver Inattention/Distraction,4616060,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Night,False
+2023-03-27 05:40:00,QUEENS,11368,40.755913,-73.8643,0,0,Failure to Yield Right-of-Way,4615846,Sedan,Moving Violation,Spring,Early Morning,False
+2023-03-27 06:00:00,BROOKLYN,11201,40.68914,-73.99305,0,0,Driver Inattention/Distraction,4616062,Pick-up Truck,Driver Inattention,Spring,Early Morning,True
+2023-03-27 07:00:00,BROOKLYN,11201,40.698536,-73.9943,0,0,Driver Inattention/Distraction,4616032,Box Truck,Driver Inattention,Spring,Early Morning,True
+2023-03-27 07:15:00,QUEENS,11385,40.71062,-73.909225,0,0,Passing or Lane Usage Improper,4616108,Sedan,Moving Violation,Spring,Early Morning,True
+2023-03-27 09:42:00,BROOKLYN,11207,40.68665,-73.91315,0,0,Unsafe Speed,4616540,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Morning,False
+2023-03-27 10:50:00,BROOKLYN,11211,40.714943,-73.942764,0,0,Passing Too Closely,4616437,Sedan,Moving Violation,Spring,Morning,False
+2023-03-27 11:30:00,QUEENS,11373,40.733906,-73.87178,0,0,Driver Inattention/Distraction,4616442,Sedan,Driver Inattention,Spring,Morning,False
+2023-03-27 11:38:00,BROOKLYN,11206,40.710094,-73.93722,0,0,Driver Inattention/Distraction,4616252,Station Wagon/Sport Utility Vehicle,Driver Inattention,Spring,Morning,False
+2023-03-27 13:08:00,BROOKLYN,11201,40.688904,-73.980934,1,0,Driver Inattention/Distraction,4616661,Motorcycle,Driver Inattention,Spring,Afternoon,False
+2023-03-27 14:05:00,BROOKLYN,11211,40.71721,-73.93471,2,0,Traffic Control Disregarded,4616059,Station Wagon/Sport Utility Vehicle,Moving Violation,Spring,Afternoon,False
+2023-03-27 17:15:00,BROOKLYN,11206,40.697266,-73.95233,1,0,Driver Inattention/Distraction,4616293,Sedan,Driver Inattention,Spring,Evening,True
+2023-03-27 20:13:00,BROOKLYN,11234,40.6082,-73.920715,1,0,Unsafe Speed,4616087,Sedan,Moving Violation,Spring,Night,False
+2023-03-27 21:50:00,QUEENS,11385,40.709038,-73.89846,1,0,Failure to Yield Right-of-Way,4616419,Moped,Moving Violation,Spring,Night,False
+2023-03-27 23:46:00,BROOKLYN,11211,40.7138,-73.93319,4,0,Driver Inattention/Distraction,4616089,Sedan,Driver Inattention,Spring,Night,False
