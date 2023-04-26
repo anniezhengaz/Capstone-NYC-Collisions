@@ -2,7 +2,7 @@
 
 # Forecasting NYC Car Collisions: Steering Towards a Safer Future
 
-Time Series Analysis of the Leading Collision Causes of the Top 5 High-Risk Zip Codes within Queens & Brooklyn
+Time Series Analysis of the Leading Collision Causes within the Top 5 High-Risk Zip Codes within Queens & Brooklyn
 
 Author: [Annie Zheng](https://github.com/anniezhengaz/)
 
