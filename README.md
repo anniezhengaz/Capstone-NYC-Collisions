@@ -49,7 +49,7 @@ To prepare the data for modeling, the following data cleaning steps were perform
 * Removal of columns with repetitive and non-relevant data to analysis
 * Imputation of missing values
 
-In addition to data cleaning, numerous features were engingeered, including:
+In addition to data cleaning, numerous features were engineered, including:
 * Main Collision Cause Categories (10 categories)
 * Season
 * Time of Day
@@ -95,7 +95,7 @@ The final model's predictions had an error of 3 car collisions per day caused by
 <img src=images/CollisionFrequency_DriverInattention.png>
 
 ## Visualizations
-The following visuals were created to help us better understand the information at hand. These are a few of the plots made, to see more, please visit the [images](Capstone-NYC-Collisions/tree/master/your-images) folder. 
+The following visuals were created to help us better understand the information at hand. These are a few of the plots made, to see more, please visit the [images](Capstone-NYC-Collisions/tree/master/images) folder. 
 
 <img src=images/CollisionCauseFrequency.png>
 Of the 10 collision cause categories, two top the charts. Moving violations make up nearly 50% of the car crashes within the dataset. This cateogry includes following too closely, improper turning, failure to stay in your lane. Driver Inattention/distractions make up 40% and consists of driver inexperience, road rage or eating behind the wheel. These two categories make up nearly 90% of the car crashes. Since they make up the vast majority, our analysis focused on these two causes.
